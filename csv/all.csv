@@ -1,0 +1,902 @@
+year,semester,carleton_code,uottawa_code,course_name,professor,outline_link
+2013,winter,COMP 1006,,Introduction to Computer Science II ,Jason Hinek 	,https://service.scs.carleton.ca/sites/default/files/course_outlines/2013_winter_comp1006.pdf
+2013,winter,COMP 1405A,COMP 1005,Introduction to Computer Science I ,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/2013_winter_comp1005.pdf
+2013,winter,COMP 1406,,Introduction to Computer Science II,Mark Lanthier ,https://service.scs.carleton.ca/sites/default/files/course_outlines/2013_winter_comp1406.pdf
+2013,winter,COMP 1501,,Introduction to Computer Game Design ,David Mould,
+2013,winter,COMP 1805,MATH 1805,Discrete Structures I,Dr. Prosenjit Bose,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1805_winter_2013.pdf
+2013,winter,COMP 1805C,MATH 1805,Discrete Structures I  ,Doron Nussbaum,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1805C_winter_2013.pdf
+2013,winter,COMP 1807,,Introduction to Robotics ,Dr Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1807_winter_2013.pdf
+2013,winter,COMP 2401,COMP 2001,Introduction to Systems Programming,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2401_winter_2013.pdf
+2013,winter,COMP 2402,COMP 2002,Data Structures ,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2402_winter_2013.pdf
+2013,winter,COMP 2404,COMP 2004,Introduction to Software Engineering ,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2404_winter_2013.pdf
+2013,winter,COMP 2406,,Fundamentals of Web Applications ,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2406_winter_2013.pdf
+2013,winter,COMP 3000,,Operating Systems,Michel Barbeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3000_winter_2013.pdf
+2013,winter,COMP 3004B,,Object-Oriented Software Development,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3004B_winter_2013.pdf
+2013,winter,COMP 3008,,Human Computer Interaction,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3008_winter_2013.pdf
+2013,winter,COMP 4102A,,Introduction to Computer Vision,Dr. Gerhard Roth,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp4102_winter_2013.pdf
+2013,winter,COMP 4109,,Applied Cryptography,Jeremy Clark,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp4109_winter_2013.pdf
+2013,winter,COMP 4203,,Wireless Networks and Security,Michel Barbeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp4203_winter_2013.pdf
+2013,winter,COMP 4501,,Advanced Computer Game Design and Development,Wilf Lalonde,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp4501_winter_2013.pdf
+2013,winter,COMP 4804,,Design and Analysis of Algorithms II,Prosenjit Bose,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp4804_winter_2013.pdf
+2013,winter,COMP 5900V,CSI 5140,Computer Security & Usability,Sonia Chiasson,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5900v_winter_2013.pdf
+2013,fall,COMP 1004A,,Intro to Computers for Science,I. Reichstein,https://service.scs.carleton.ca/sites/default/files/course_outlines/Outline%202013.pdf
+2013,fall,COMP 1005A,,Introduction to Computer Science 1,Gail Carmichael,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_1005_course_outline_fall2013_carmichael.pdf
+2013,fall,COMP 1405,,Introduction to Computer Science,Pat Morin,https://service.scs.carleton.ca/sites/default/files/course_outlines/course-outline_0.pdf
+2013,fall,COMP 1406A,1006,Introduction to Computer Science II,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/1406.pdf
+2013,fall,COMP 1805A,,Discrete Strutures,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/1805.pdf
+2013,fall,COMP 2401A,,Introduction to Systems Programming,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_0.pdf
+2013,fall,COMP 2402A,,Data Structures,Pat Morin,https://service.scs.carleton.ca/sites/default/files/course_outlines/course-outline_1.pdf
+2013,fall,COMP 2404A,,Intro To Software Engineering,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2404fall2013outline.pdf
+2013,fall,COMP 2406,,Fundamentals of Web Applications,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/Fundamentals%20of%20Web%20Applications%20%28Fall%202013%29.pdf
+2013,fall,COMP 2804,,Discrete Structures II,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_1.pdf
+2013,fall,COMP 3000A,,Operating Systems,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/3000%20outline.docx
+2013,fall,COMP 3004A,,Object-Oriented Software Engineering,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_2.pdf
+2013,fall,COMP 3005A,,Database Management Systems,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005fall2013outline_0.pdf
+2013,fall,COMP 3203,,Computer Networks,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/3203-Kranakis.pdf
+2013,fall,COMP 3501A,,Foundations of Game Programming and Computer Graphics,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro_0.pdf
+2013,fall,COMP 3601,,Social Networking,Dwight Deugo,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP%203601-Social%20Networking-29-8-13.pdf
+2013,fall,COMP 3804,"Math 3804, ISYS 5802, Math 5802",Design and Analysis of Algorithms I,J.-R. Sack,https://service.scs.carleton.ca/sites/default/files/course_outlines/Outline3804.pdf
+2013,fall,COMP 4001,,Distributed Computing,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/4001-Kranakis.pdf
+2013,fall,COMP 4004A,,Software Quality Assurance,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/4004-%20outlineF13_0.pdf
+2013,fall,COMP 4009A,,Parallel Programming for Clusters and Multi-Core Processors,F. Dehne,https://service.scs.carleton.ca/sites/default/files/course_outlines/course-outline.pdf
+2013,fall,COMP 4104A,,Principles and Practice of Distributed Programming,Tony White,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP-4104.pdf
+2013,fall,COMP 4109A,,Applied Cryptography,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/4109.pdf
+2013,fall,COMP 4900F,,Human-Computer Interaction for UI Design,Robert Biddle,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp4900f-outline-2013f.pdf
+2013,fall,COMP 5204,4900A,Computational Aspects of Geographic Information Systems,J.-R. Sack,https://service.scs.carleton.ca/sites/default/files/course_outlines/Outline5204.pdf
+2013,fall,COMP 5900F,CSI 5140,Human-Computer Interaction for UI Design,Robert Biddle,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5900f-outline-2013f_0.pdf
+2013,fall,COMP 5900G,CSI5140,Computer Security and Usability,Sonia Chiasson,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP5900GCourse%20outline.pdf
+2014,winter,COMP 1001B,,Introduction to Computers for the Arts and Social Sciences.,I. Reichstein,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP%201001%20Course%20Outline.pdf
+2014,winter,COMP 1005B,1405,Introduction to Programming,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline.pdf
+2014,winter,COMP 1406B,,Introduction to Computer Sciene II,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1406-CourseOutline%28W2014%29.pdf
+2014,winter,COMP 1501A,,Introduction to Game Design,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro-1501-2014.pdf
+2014,winter,COMP 1601A,,Introduction to Mobile Application Development,Dwight Deugo,https://service.scs.carleton.ca/sites/default/files/course_outlines/course_outline.html
+2014,winter,COMP 1805B,,Discrete Structures,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/1805_0.pdf
+2014,winter,COMP 1807,,Introduction to Robotics,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1807-CourseOutline%28W2014%29_0.pdf
+2014,winter,COMP 2402B,,Abstract Data Types (Data Structures),Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2402winter2014outline.html
+2014,winter,COMP 2404,,Introduction to Software Engineering,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_5.pdf
+2014,winter,COMP 2406,,Fundamentals of Web Applications,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/Fundamentals%20of%20Web%20Applications%20%28Winter%202014%29.pdf
+2014,winter,COMP 2501A,,Computer Games,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2501winter2014outline_0.html
+2014,winter,COMP 2601A,,Mobile Applications,Tony White,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP-2601.pdf
+2014,winter,COMP 2804B,,Discrete Structures II,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_3.pdf
+2014,winter,COMP 3000B,,Operating Systems,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/3000%20outline_1.docx
+2014,winter,COMP 3004B,,Object-Oriented Software Engineering,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/3004-W14-outline.pdf
+2014,winter,COMP 3005B,,Database Management Systems,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005winter2014outline.html
+2014,winter,COMP 3008,,Human Computer Interaction,Sonia Chiasson,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3008_2014w_course_outline.pdf
+2014,winter,COMP 3803,,Introduction to the Theory of Computation,John Oommen,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP3803HomePage2014.htm
+2014,winter,COMP 3804B,MATH3804,Design and Analysis of Algorithms I,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/3804.pdf
+2014,winter,COMP 4102,,Introduction to Computer Vision,Gerhard Roth,https://service.scs.carleton.ca/sites/default/files/course_outlines/Outline_2014.pdf
+2014,winter,COMP 4106,,Artificial Intelligence,John Oommen,https://service.scs.carleton.ca/sites/default/files/course_outlines/4106Out14.pdf
+2014,winter,COMP 4108B,,Computer Systems Security ,Paul Van Oorschot,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP4108-preliminary-outline_0.pdf
+2014,winter,COMP 4203,,Wireless Networks and Security,Michel Barbeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/CourseOutline4203.pdf
+2014,winter,COMP 4601A,,Mobile Multimedia,Tony White,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP-4601_0.pdf
+2014,winter,COMP 4804A,,Design and Analysis of Algorithms II,Anil Maheshwari,
+2014,winter,COMP 5008,,Computational Geometry,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_4.pdf
+2014,winter,COMP 5102,COMP 4000,Distributed Operating Systems,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/Distributed%20OS%3A%20Winter%202014.pdf
+2014,winter,COMP 5104,HCIN 5406,Object-Oriented Software Development,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/5104-W14-outline.pdf
+2014,winter,COMP 5305W,,Advanced Database Systems,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_0.docx
+2014,winter,COMP 5402,,Protocols for Mobile and Wireless Networks,Michel Barbeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/CourseOutline5402.pdf
+2014,winter,COMP 5900,4900,Evolving Information Networks,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/EK-590-14.pdf
+2014,winter,COMP 5900X,,Game Design Workshop,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro-5900-2014.pdf
+2014,summer,COMP 1005A,1405,Introduction to Computer Science I,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP%201405%20outline.pdf
+2014,summer,COMP 1406A,1006,Introduction to Computer Science II,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/1406-S14.pdf
+2014,fall,COMP 1005A,,Introduction to Computer Science I,John Howat,https://service.scs.carleton.ca/sites/default/files/course_outlines/1005F14-outline.pdf
+2014,fall,COMP 1805A,,Discrete Structures I,John Howat,https://service.scs.carleton.ca/sites/default/files/course_outlines/1805F14-outline.pdf
+2014,fall,COMP 2401A,,Introduction to Systems Programming,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_9.pdf
+2014,fall,COMP 2404A,,Introduction to Software Engineering,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_10.pdf
+2014,fall,COMP 2406A,,Fundamentals of Web Applications,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2406fall2014outline.html
+2014,fall,COMP 2804,,Discrete Structures II,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_6.pdf
+2014,fall,COMP 2807,,Fundamentals of Mobile Robot Programming,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP2807-CourseOutline%28F2014%29_0.pdf
+2014,fall,COMP 2807A,,Fundamentals of Mobile Robot Programming,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP2807-CourseOutline%28F2014%29_1.pdf
+2014,fall,COMP 3000,,Operating Systems,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3000-fall2014-outline.pdf
+2014,fall,COMP 3004A,,Object-oriented Software Engineering,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_7.pdf
+2014,fall,COMP 3005A,,Database Management Systems,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005fall2014outline.html
+2014,fall,COMP 3203,,Principles of Computer Networks,Michel Barbeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/CourseOutline3203.pdf
+2014,fall,COMP 3501A,,Foundations of Game Programming and Computer Graphics,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro-3501-2014.pdf
+2014,fall,COMP 3601A,,Social Networking,Dwight Deugo,https://service.scs.carleton.ca/sites/default/files/course_outlines/index.html
+2014,fall,COMP 4001A,,DISTRIBUTED COMPUTING,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/401-14.pdf
+2014,fall,COMP 4004A,,Software Quality Engineering,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/4004-%20outlineF14.pdf
+2014,fall,COMP 4009A,,Parallel Programming for Clusters and Multi-Core Processors,Frank Dehne,https://service.scs.carleton.ca/sites/default/files/course_outlines/4009%20outline.pdf
+2014,fall,COMP 4009A,,Parallel Programming for Clusters and Multi-Core Processors,F.Dehne,https://service.scs.carleton.ca/sites/default/files/course_outlines/x.txt
+2014,fall,COMP 4107A,,Evolutionary Computation and Artificial Life,Tony White,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP-4107.pdf
+2014,fall,COMP 4109A,,Applied Cryptography,John Howat,https://service.scs.carleton.ca/sites/default/files/course_outlines/4109F14-outline.pdf
+2014,fall,COMP 4900,5111,Data Management for Business Intelligence ,Leopoldo Bertossi,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllBI14.pdf
+2014,fall,COMP 5005,,Learning Systems for Random Environments ,John Oommen,https://service.scs.carleton.ca/sites/default/files/course_outlines/5005Outline14.pdf
+2014,fall,COMP 5104,HCIN5406,Object-Oriented Software Development,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/5104-%20outlineF14.pdf
+2014,fall,COMP 5304A,,WIRELESS NETWORKING AND MOBILE COMPUTING,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/534-14.pdf
+2014,fall,COMP 5306,,Data Integration,Leopoldo Bertossi,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllBI14_0.pdf
+2014,fall,COMP 5900G,CSI5140,Computer Security and Usability,Sonia Chiasson,https://service.scs.carleton.ca/sites/default/files/course_outlines/Fall2014_COMP5900G_Syllabus_1.pdf
+2015,winter,COMP 1004A,,Introduction to Computers for the Sciences,I. Reichstein,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline.docx
+2015,winter,COMP 1006B,,Introduction to Computer Science II,John Howat,https://service.scs.carleton.ca/sites/default/files/course_outlines/1006B-W15-outline.pdf
+2015,winter,COMP 1405B,COMP 1005,Introduction to Computer Science I,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_14.pdf
+2015,winter,COMP 1406C,,Introduction to Computer Science II,John Howat,https://service.scs.carleton.ca/sites/default/files/course_outlines/1406C-W15-outline.pdf
+2015,winter,COMP 1501A,,Computer Game Design,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro-1501-2015.pdf
+2015,winter,COMP 1601,,Introduction to Mobile Application Development,Dwight Deugo,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP%201601%20Course%20Outline_0.pdf
+2015,winter,COMP 1805B,,Discrete Structures I,John Howat,https://service.scs.carleton.ca/sites/default/files/course_outlines/1805BM-W15-outline.pdf
+2015,winter,COMP 1807,,Introduction to Robotics,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1807-CourseOutline%28W2015%29.pdf
+2015,winter,COMP 2401,,Introduction to Systems Programming,Doron Nussbaum,https://service.scs.carleton.ca/sites/default/files/course_outlines/course_information_sheet.pdf
+2015,winter,COMP 2402B,,Abstract Data Types and Algorithms,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2402winter2015outline.html
+2015,winter,COMP 2404B,,Introduction to Software Engineering,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_8.pdf
+2015,winter,COMP 2406,,Fundamentals of Web Applications,Anil Somayaji,
+2015,winter,COMP 2501A,,Computer Games,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2501winter2015outline.html
+2015,winter,COMP 2601A,,Mobile Applications,Tony White,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP-2601.html
+2015,winter,COMP 2804B,,Discrete Math II,Anil Maheshwari,
+2015,winter,COMP 2804B,,Discrete Structures II,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_11.pdf
+2015,winter,COMP 3000B,,Operating Systems,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/3000-15Woutline.docx
+2015,winter,COMP 3004B,,Object-Oriented Software Engineering,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/3004-w15-outline.pdf
+2015,winter,COMP 3005B,,Database Management Systems,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005winter2015outline.html
+2015,winter,COMP 3008A,,Human Computer Interaction,Robert Biddle,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3008-outline-2015w.pdf
+2015,winter,COMP 3803,,Introduction to the Theory of Computation,John Oommen,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP3803Outline2015.htm
+2015,winter,COMP 3804,ISYS 5802 / Math 5802 / MATH 3804,Design and Analysis of Algorithms I,Dr. J.-R. Sack,https://service.scs.carleton.ca/sites/default/files/course_outlines/Outline3804_0.pdf
+2015,winter,COMP 4102A,,Computer Vision,Gerhard Roth,https://service.scs.carleton.ca/sites/default/files/course_outlines/Outline_COMP4102_15_0.pdf
+2015,winter,COMP 4106,,Artificial Intelligence,John Oommen,https://service.scs.carleton.ca/sites/default/files/course_outlines/4106Out15_1.pdf
+2015,winter,COMP 4203,,Wireless Networks and Security,Michel Barbeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/CourseOutline4203_0.pdf
+2015,winter,COMP 4501,,Advanced Compouter Game Design and Development,Wilf LaLonde,https://service.scs.carleton.ca/sites/default/files/course_outlines/4501.2015.Description_0.pdf
+2015,winter,COMP 4501,,Advanced Facilities for Real-Time Games,Wilf LaLonde,https://service.scs.carleton.ca/sites/default/files/course_outlines/4501.2015.Description.docx
+2015,winter,COMP 4601A,,Mobile Multimedia,Tony White,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP-4601.html
+2015,winter,COMP 4900,,Computational Logic and Automated Reasoning,Leopoldo Bertossi,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllCompLogic15.pdf
+2015,winter,COMP 5000,DATA 5000,Introduction to Data Science,Boyan Bejanov,https://service.scs.carleton.ca/sites/default/files/course_outlines/DATA5000outline.pdf
+2015,winter,COMP 5008,,Computational Geometry,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_13.pdf
+2015,winter,COMP 5102,COMP 4000,Distributed Operating Systems,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/Distributed%20OS_%20Winter%202015%20Course%20Outline.pdf
+2015,winter,COMP 5209A,,Visual Analytics,Robert Biddle,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5209-outline-2015w.pdf
+2015,winter,COMP 5305W,,Advanced Databases,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/5305-15Woutline.docx
+2015,winter,COMP 5402,,Protocols for Mobile and Wireless Networks,Michel Barbeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/CourseOutline5402_1.pdf
+2015,winter,COMP 5407W,,Authentication and Software Security,P. Van Oorschot,https://service.scs.carleton.ca/sites/default/files/course_outlines/5407jan2015-outline.html
+2015,winter,COMP 5900Y,,Geometry Processing,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/GeomProcOutline.pdf
+2015,summer,COMP 1006,1406,Introduction​ ​to​ ​Computer​ ​Science II,Andrew Schoenrock,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_1406_summer_2015.pdf
+2015,summer,COMP 1405A,1005,Introduction to Computer Science I,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/1405-S15-v2.1.pdf
+2015,fall,COMP 1001A,,Introduction to Computational Thinking for Arts and Social Sciences,Andrew Polk,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1001Fall2015CourseOutline.pdf
+2015,fall,COMP 1005A,,Introduction to Computer Science I,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/Outline.pdf
+2015,fall,COMP 1405A,COMP 1405M,Introduction to Computer Science I,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1405-CourseOutline%28F2015%29.pdf
+2015,fall,COMP 1405B,,Introduction to Computer Science I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1405-F15-W00-01-%28Course%20Outline%29.pdf
+2015,fall,COMP 1406A,1006,Introduction to Computer Science II,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/1406fall2015outline.html
+2015,fall,COMP 1805A,,Discrete Structures I,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/F15-1805v2.pdf
+2015,fall,COMP 2401A,,Introduction to Systems Programming,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_15.pdf
+2015,fall,COMP 2401B,,Introduction to System Programming ,Doron Nussbaum,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_2401_course_outline_fall_2015_0.pdf
+2015,fall,COMP 2402A,,Abstract Data Types and Algorithms,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/F15-2402-v3%20_0.pdf
+2015,fall,COMP 2402B,,Abstract Data Types and Algorithms,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP2402B-F15-W00-01-%28Course%20Outline%29_0.pdf
+2015,fall,COMP 2404A,,Introduction to Software Engineering,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_16.pdf
+2015,fall,COMP 2406A,,Fundamentals of Web Applications,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2406fall2015outline.html
+2015,fall,COMP 2804A,,Discrete Structures II,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_17.pdf
+2015,fall,COMP 2807A,,Fundamentals of Mobile Robot Programming,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP2807-CourseOutline%28F2015%29.pdf
+2015,fall,COMP 3000,,Operating Systems,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/Operating%20Systems%20%28Fall%202015%29%20Course%20Outline_0.pdf
+2015,fall,COMP 3004A,,Object-Oriented Software Engineering,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_12.pdf
+2015,fall,COMP 3005A,,Database Management Systems,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005fall2015outline.html
+2015,fall,COMP 3007,,Programming Paradigms,Douglas J. Howe,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP%203007.pdf
+2015,fall,COMP 3009A,,Computer Graphics,Doron Nussbaum,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_3009_outline_2015.pdf
+2015,fall,COMP 3203,,Principles of Computer Networks,Michel Barbeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/CourseOutline3203_0.pdf
+2015,fall,COMP 3301A,,Technical Writing,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/3301-2015.pdf
+2015,fall,COMP 3501A,,Foundations of Game Programming and Computer Graphics,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP3501_Outline_0.pdf
+2015,fall,COMP 3601A,,Social Networking,Dwight Deugo,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP3601-Outline.pdf
+2015,fall,COMP 3804,MATH 3804,Design and Analysis of Algorithms I,Giovanni Viglietta,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP3804outline.pdf
+2015,fall,COMP 4001A,,DISTRIBUTED COMPUTING ,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/401-15.pdf
+2015,fall,COMP 4003A,,Transaction Processing Systems,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/4003outline_0.docx
+2015,fall,COMP 4004A,,Software Quality Assurance,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/4004-%20outlineF15.pdf
+2015,fall,COMP 4109A,,Applied Cryptography,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/F15-4109-v1%20.pdf
+2015,fall,COMP 4111A,COMP 5111,Data Management for Business Intelligence,Leopoldo Bertossi,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllBI15.pdf
+2015,fall,COMP 4900A,,EVOLVING INFORMATION NETWORKS ,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/590-15.pdf
+2015,fall,COMP 5110,CSI 5140C,Computer Security & Usability,Sonia Chiasson,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP5110Fall2015_Outline_0.pdf
+2015,fall,COMP 5209,CSI 5140,Visual Analytics,Robert Biddle,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5209-outline-2015f.pdf
+2015,fall,COMP 5307,,Knowledge Representation,Leopoldo Bertossi,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllKR15.pdf
+2015,fall,COMP 5704A,,Parallel Algorithms and Applications in Data Science,Frank Dehne,https://service.scs.carleton.ca/sites/default/files/course_outlines/5704%20course%20outline.html
+2015,fall,COMP 5900,,Mining Software Repositories,Olga Baysal,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP5900_outline.pdf
+2015,fall,COMP 5900A,,EVOLVING INFORMATION NETWORKS ,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/590-15_0.pdf
+2016,winter,COMP 1001B,,Introduction to Computational Thinking for Arts and Social Sciences,Andrew Polk,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1001Winter2016CourseOutline.pdf
+2016,winter,COMP 1004,,Introduction to Computers for the Sciences,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/2016-1004%20outline.pdf
+2016,winter,COMP 1005B,COMP1405B,Introduction to Computer Science I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1005B-W16-0106-01-%28Course%20Outline%29.pdf
+2016,winter,COMP 1006,,Introduction to Computer Science II,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/2016-1006.pdf
+2016,winter,COMP 1406B,,Introduction to Computer Science II,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1406C-W16-0106-01-%28Course%20Outline%29%20%28Jason%29.pdf
+2016,winter,COMP 1406C,,Introduction to Computer Science II,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1406C-W16-0106-01-%28Course%20Outline%29.pdf
+2016,winter,COMP 1501A,,Introduction to Game Design,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro-1501-2016.pdf
+2016,winter,COMP 1601A,,Introduction to Mobile Application Development,Dwight Deugo,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP%201601%20Course%20Outline.pdf
+2016,winter,COMP 1805B,,Discrete Structures I,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/W16-1805.pdf
+2016,winter,COMP 1805C,,Discrete Structures I,Prosenjit Bose,https://service.scs.carleton.ca/sites/default/files/course_outlines/W16-1805-Bose1.pdf
+2016,winter,COMP 2401B,,Introduction to Systems Programming,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_22.pdf
+2016,winter,COMP 2402B,,Abstract Data Types and Algorithms,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/W16-2402-v1.pdf
+2016,winter,COMP 2404B,,Introduction to Software Engineering,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_19.pdf
+2016,winter,COMP 2406,,Fundamentals of Web Applications,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/Fundamentals%20of%20Web%20Applications_%20Winter%202016%20Course%20Outline.pdf
+2016,winter,COMP 2501A,,Computer Game Design and Development,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP2501A-W16-0106-01-%28Course%20Outline%29.pdf
+2016,winter,COMP 2601A,,Mobile Applications,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2601winter2016outline.html
+2016,winter,COMP 2804B,,Discrete Structures II,Anil Maheshwari,
+2016,winter,COMP 3000B,,Operating Systems,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/3000-16Woutline.docx
+2016,winter,COMP 3004B,,Object-Oriented Software Engineering,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/3004-w16-outline.pdf
+2016,winter,COMP 3005B,,Database Management Systems,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005winter2016outline.html
+2016,winter,COMP 3007,,Programming Paradigms,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/2016-3007%20outline.pdf
+2016,winter,COMP 3008,,Human Computer Interaction,Sonia Chiasson,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3008_jan2016_course_outline.pdf
+2016,winter,COMP 3400A,,Computational Logic and Automated Reasoning,Leopoldo Bertossi,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllCompLogic16.pdf
+2016,winter,COMP 3803,,Introduction to Theory of Computation,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_21.pdf
+2016,winter,COMP 4102,,Computer Vision,Dr. Gerhard Roth,https://service.scs.carleton.ca/sites/default/files/course_outlines/Outline_2016_0.pdf
+2016,winter,COMP 4106,,Artificial Intelligence,Dr. John Oommen,https://service.scs.carleton.ca/sites/default/files/course_outlines/4106Outline16.pdf
+2016,winter,COMP 4108,,Computer Systems Security,Anil Somayaji,
+2016,winter,COMP 4203,,Wireless Networks and Security,Michel Barbeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/CourseOutline4203_2.pdf
+2016,winter,COMP 4501,,Advanced Computer Game Design and Development,Wilf Lalonde,https://service.scs.carleton.ca/sites/default/files/course_outlines/4501.2016.Outline.docx
+2016,winter,COMP 5000,DATA 5000,Introduction to Data Science,"Olga Baysal, Boyan Bejanov",https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_18.pdf
+2016,winter,COMP 5008,,Computational Geometry,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_20.pdf
+2016,winter,COMP 5104A,HCIN5406,Object-oriented Software Development,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/5104-%20outlineW16.pdf
+2016,winter,COMP 5107,,Statistical and Syntactic Pattern Recognition,Dr. John Oommen,https://service.scs.carleton.ca/sites/default/files/course_outlines/5107Outline16.pdf
+2016,winter,COMP 5900,,Quantum Communications and Networking,Michel Barbeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/CourseOutline5900.pdf
+2016,winter,COMP 5900X,,Game Design Workshop,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro-5900-2016.pdf
+2016,winter,COMP 5900Y,,Geometry Processing,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/GeomProcOutline%20Winter%202016_0.pdf
+2016,summer,COMP 1405A,COMP 1400,Introduction to Computer Science I,Howard Scott Needham,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1405A-S16-W00-01-%5BCourse%20Outline%5D.pdf
+2016,summer,COMP 1406A,1006,Introduction to Computer Science II,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/1406-s16.pdf
+2016,summer,COMP 1805,,Discrete Structures I,Sander Verdonschot,https://service.scs.carleton.ca/sites/default/files/course_outlines/Course%20Outline%201805.pdf
+2016,fall,COMP 1001,,Introduction to Computational Thinking for the Arts and Social Sciences,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/1001outline.pdf
+2016,fall,COMP 1005A,,Introduction to Computer Science I,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/1005-F16_0.pdf
+2016,fall,COMP 1405A,,Introduction to Computer Science I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1405A-F16-XXX-XX-%28Course%20Outline%29.pdf
+2016,fall,COMP 1405B,,Introduction to Computer Science I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1405B-F16-XXX-XX-%28Course%20Outline%29.pdf
+2016,fall,COMP 1406A,1006,Introduction to Computer Science II,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/1006-F16-final.pdf
+2016,fall,COMP 1805A,,Discrete Structures I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1805A-F16-XXXX-XX-%28Course%20Outline%29.pdf
+2016,fall,COMP 2401A,,Introduction to Systems Programming,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline-A.pdf
+2016,fall,COMP 2401B,,Introduction to Systems Programming,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline-B.pdf
+2016,fall,COMP 2402F,,Data Structures,Pat Morin,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline-2402.html
+2016,fall,COMP 2404A,,Introduction to Software Engineering,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_26.pdf
+2016,fall,COMP 2406,,Fundamentals of Web Applications,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/2406outline.pdf
+2016,fall,COMP 2801A,,Introduction to Robotics,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP2801-CourseOutline%28F2016%29.pdf
+2016,fall,COMP 2804A,,Discrete Structures II,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_23.pdf
+2016,fall,COMP 3000,,Operating Systems,Michel Barbeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/CourseOutline3000_0.pdf
+2016,fall,COMP 3004A,,Object-Oriented Software Engineering,Olga Baysal,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP3004_Outline.pdf
+2016,fall,COMP 3005A,,Database Management Systems,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005outline.docx
+2016,fall,COMP 3007,,Programming Paradigms,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/3007outline.pdf
+2016,fall,COMP 3009,,Computer Graphics,Doron Nussbaum,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_3009_outline_2016_0.pdf
+2016,fall,COMP 3203A,,Computer Networks,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/3203-16-Kranakis.pdf
+2016,fall,COMP 3301A,,Technical Writing,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro-2016.pdf
+2016,fall,COMP 3501A,,Foundations of Game Programming and Computer Graphics,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP3501_Outline_1.pdf
+2016,fall,COMP 3601A,,Social Networking,Dwight Deugo,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP%203601%20--%20Social%20Networking.pdf
+2016,fall,COMP 3801,COMP 3801,Algorithms for Modern Data Sets,Anil Maheshwari,
+2016,fall,COMP 3804,MATH 3804,Design and Analysis of Algorithms,Prosenjit Bose,https://service.scs.carleton.ca/sites/default/files/course_outlines/F16-3804-Bose_0.pdf
+2016,fall,COMP 4001A,,Distributed Computing,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/4001-16-Kranakis.pdf
+2016,fall,COMP 4009,,Parallel Programming for Clusters and Multi-Core Processors,Andrew Schoenrock,https://service.scs.carleton.ca/sites/default/files/course_outlines/4009_outline.pdf
+2016,fall,COMP 4009A,,Parallel Programming for Clusters and Multi-Core Processors,F. Dehne,https://service.scs.carleton.ca/sites/default/files/course_outlines/4009_0.pdf
+2016,fall,COMP 4109A,,Applied Cryptography,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/F16-4109%20.pdf
+2016,fall,COMP 4111,5111,COMP 4111/5111 Data Management for Business Intelligence,Leopoldo Bertossi,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllBI16.pdf
+2016,fall,COMP 4202,5204A,Computational  Aspects of GIS,JR Sack,https://service.scs.carleton.ca/sites/default/files/course_outlines/outlineGIS-forwebpage.pdf
+2016,fall,COMP 5206F,,Evolutionary Computation and Artificial Life,Tony White,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_24.pdf
+2016,fall,COMP 5306,,Data Integration,Leopoldo Bertossi,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllDI16.pdf
+2016,fall,COMP 5703,,Graduate Course on Algorithms,Anil Maheshwari,
+2016,fall,COMP 5704A,,Parallel Algorithms and Applications in Data Science,F.Dehne,https://service.scs.carleton.ca/sites/default/files/course_outlines/5704.pdf
+2016,fall,COMP 5900H,,Image Processing and Stylization,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/5900-intro-2016.pdf
+2016,fall,COMP 5900X,,Mining Software Repositories,Olga Baysal,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP5900_Outline.pdf
+2017,winter,COMP 1001,,Introduction to Computational Thinking for Arts and Social Sciences,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1001%20Outline_0.pdf
+2017,winter,COMP 1004A,,Introduction to Computers for the Sciences,I. Reichstein,https://service.scs.carleton.ca/sites/default/files/course_outlines/Outline%202017.docx
+2017,winter,COMP 1006B,,Introduction to Computer Science II,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1006-CourseOutline%28W2017%29.pdf
+2017,winter,COMP 1406C,,Introduction to Computer Science II,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1406-CourseOutline%28W2017%29.pdf
+2017,winter,COMP 1501A,,Introduction to Computer Game Design,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1501A_INFO_%28Course%20Outline%29.pdf
+2017,winter,COMP 1601A,,Introduction to Mobile Application Development,Dwight Deugo,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP%201601%20Course%20Outline_1.pdf
+2017,winter,COMP 1805C,,Discrete Structures I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1805C_INFO_%28Course%20Outline%29.pdf
+2017,winter,COMP 2401,,Introduction to Systems Programming,Doron Nussbaum,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_2401_course_outline_winter_2017.pdf
+2017,winter,COMP 2404B,,Introduction to Software Engineering,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_27.pdf
+2017,winter,COMP 2406,,Fundamentals of Web Applications,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP2406%20Outline.pdf
+2017,winter,COMP 2501A,,Computer Game Design and Development,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP2501A_INFO_%28Course%20Outline%29.pdf
+2017,winter,COMP 2601A,,Mobile Applications,Tony White,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP%202601%20--%20Mobile%20Applications_0.pdf
+2017,winter,COMP 2804B,,Discrete Structures II,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_28.pdf
+2017,winter,COMP 3000,,Operating Systems,Michel Barbeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/CourseOutline3000.pdf
+2017,winter,COMP 3002A,,Compilers,Wilf Lalonde,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP3002_Description.pdf
+2017,winter,COMP 3004B,,Object-Oriented Software Engineering,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_25.pdf
+2017,winter,COMP 3005B,,Database Management Systems,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005outline_1.docx
+2017,winter,COMP 3007,,Programming Paradigms,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP3007%20Outline.pdf
+2017,winter,COMP 3008A,,Human-Computer Interaction,Robert Biddle,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3008-outline-2017w.pdf
+2017,winter,COMP 3400A,,Computational Logic and Automated Reasoning,Leopoldo Bertossi,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllCompLogic17.pdf
+2017,winter,COMP 3804B,MATH 3804,Design and Analysis of Algorithms I,Sander Verdonschot,https://service.scs.carleton.ca/sites/default/files/course_outlines/Course%20Outline%203804.pdf
+2017,winter,COMP 4102,,Introduction to Computer Vision,Gerhard Roth,https://service.scs.carleton.ca/sites/default/files/course_outlines/Outline_2017.pdf
+2017,winter,COMP 4106,,Artificial Intelligence,Dr. John Oommen,https://service.scs.carleton.ca/sites/default/files/course_outlines/4106Outline17_0.pdf
+2017,winter,COMP 4108B,,Computer Systems Security,Paul Van Oorschot,https://service.scs.carleton.ca/sites/default/files/course_outlines/4108jan2017-outline.pdf
+2017,winter,COMP 4501,,Advanced facilities for real-time games,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP4501_Outline.pdf
+2017,winter,COMP 4601A,,Mobile Multimedia,Tony White,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP%204601%20--%20Mobile%20Multimedia.pdf
+2017,winter,COMP 4804A,,Algorithms II,Pat Morin,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp4804-outline.pdf
+2017,winter,COMP 5005,,Learning Systems for Random Environment,Dr. John Oommen,https://service.scs.carleton.ca/sites/default/files/course_outlines/4106Outline17.pdf
+2017,winter,COMP 5008,,Computational Geometry,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_29.pdf
+2017,winter,COMP 5305W,,Advanced Database Systems ,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/5305-17Woutline_0.docx
+2017,winter,COMP 5407W,,Authentication and Software Security,Paul Van Oorschot,https://service.scs.carleton.ca/sites/default/files/course_outlines/5407jan2017_0.pdf
+2017,winter,COMP 5900,, Data Representation Learning,Yuhong Guo,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllabusDRL_2017.pdf
+2017,winter,COMP 5900,,Quantum Communications and Networking,Michel Barbeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/CourseOutline5900_0.pdf
+2017,winter,COMP 5900Y,,Geometry processing,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/GeomProcOutline%20Winter%202017.pdf
+2017,summer,COMP 1405A,COMP 1005,Introduction to Computer Science I,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1005-comp1405-s17-course_outline.pdf
+2017,summer,COMP 1406A,1006,Introduction to Computer Science II,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/1406-s17-final.pdf
+2017,summer,COMP 4900,,Intensive Game Development Project,Connor Hillen,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_4900_course_outline_2017.pdf
+2017,fall,COMP 1001A,,Introduction to Computational Thinking for Arts and Social Sciences,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/Comp1001%20Outline.docx
+2017,fall,COMP 1005,1405,Introduction​ ​to​ ​Computer​ ​Science​ ​I,Andrew Schoenrock,https://service.scs.carleton.ca/sites/default/files/course_outlines/course_outline_-_fall_2017_-_comp1005.pdf
+2017,fall,COMP 1005A,,Introduction to Computer Science I,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/Course%20Outline%20-%20Fall%202017%20-%20COMP1005%20-%20Updated.pdf
+2017,fall,COMP 1405A,,Introduction to Computer Science I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1405A%20-%20Course%20Outline%20%28Fall%202017%29_1.pdf
+2017,fall,COMP 1405B,,Introduction to Computer Science I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1405B%20-%20Course%20Outline%20%28Fall%202017%29_0.pdf
+2017,fall,COMP 1406A,1006,Introduction to Computer Science II,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/Outline%20-%20F17-updated.pdf
+2017,fall,COMP 1805A,,Discrete Structures I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1805A%20-%20Course%20Outline%20%28Fall%202016%29_0.pdf
+2017,fall,COMP 2401A,,Introduction to Systems Programming,Doron Nussbaum,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_2401A_course_outline_fall_2017.pdf
+2017,fall,COMP 2401B,,Introduction to Systems Programming,Doron Nussbaum,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_2401B_course_outline_fall_2017.pdf
+2017,fall,COMP 2402B,,Abstract Data Types And Algorithms,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/Comp2402%20Outline.docx
+2017,fall,COMP 2404,,Introduction to Software Engineering,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2404fall2017outline_0.html
+2017,fall,COMP 2406A,,Fundamentals of Web Applications,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2406fall2017outline.html
+2017,fall,COMP 2801A,,Introduction to Robotics,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP2801-CourseOutline%28F2017%29.pdf
+2017,fall,COMP 2804A,,Discrete Structures II,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_31.pdf
+2017,fall,COMP 3000,,Operating Systems,Anil Somayaji,
+2017,fall,COMP 3004A,,Object-Oriented Software Engineering,Olga Baysal,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP3004_Outline_0.pdf
+2017,fall,COMP 3005A,,Database Management Systems,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005%2017F%20Outline_0.docx
+2017,fall,COMP 3007A,,Programming Paradigms,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/Comp3007%20Outline.docx
+2017,fall,COMP 3203A,,Principles of Computer Networks,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/323-17_0.pdf
+2017,fall,COMP 3301A,,Technical Writing,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro-2017.pdf
+2017,fall,COMP 3501A,,Foundations of Game Programming and Computer Graphics,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP3501_Outline.pdf
+2017,fall,COMP 3801,,Algorithms for Modern Data Sets,Anil Maheshwari,
+2017,fall,COMP 3804A,MATH 3804,Design and Analysis of Algorithms,Prosenjit Bose,https://service.scs.carleton.ca/sites/default/files/course_outlines/F17-3804-Bose.pdf
+2017,fall,COMP 4001A,,Distributed Computing,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/401-17.pdf
+2017,fall,COMP 4004A,,Software Quality Engineering,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/4004-%20outlineF17.pdf
+2017,fall,COMP 4107A,,Neural Networks,Tony White,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP-4107_0.pdf
+2017,fall,COMP 4109A,,Applied Cryptography,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/F17-4109-pre.pdf
+2017,fall,COMP 4804,,Advanced Algorithms,Anil Maheshwari,
+2017,fall,COMP 5008,,Computational Geometry,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_32.pdf
+2017,fall,COMP 5102,COMP 4000,Distributed Operating Systems,Anil Somayaji,
+2017,fall,COMP 5104A,HCIN 5406,Object-Oriented Software Development,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/5104-outlineF17.pdf
+2017,fall,COMP 5206A,,Evolutionary Computation and Artificial Life,Tony White,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP-5206.pdf
+2017,fall,COMP 5305F,,Advanced Database Systems ,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/5305-17F%20Outline.docx
+2017,fall,COMP 5704A,,Parallel Algorithms and Applications in Data Science,F. Dehne,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_30.pdf
+2017,fall,COMP 5900H,,Game Design Workshop,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro-2017_0.pdf
+2017,fall,COMP 5900X,,Mining Software Repositories,Olga Baysal,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP5900_Outline_0.pdf
+2018,winter,COMP 1001B,,Introduction to Computational Thinking for the Arts and Social Sciences,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/Comp1001.pdf
+2018,winter,COMP 1004A,,Introduction to Computers for the Sciences,I. Reichstein,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_1.docx
+2018,winter,COMP 1006B,,Introduction to Computer Science II,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/W18-1006-Course-Outline-Corrected.pdf
+2018,winter,COMP 1405B,COMP1005B,Introduction to Computer Science I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1405B%20-%20Course%20Outline%20%28Winter%202018%29.pdf
+2018,winter,COMP 1406B,,Introduction to Computer Science II,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/W18-1406-Course-Outline.pdf
+2018,winter,COMP 1406C,,Introduction to Computer Science II,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1406-CourseOutline%20%28W2018%29_0.pdf
+2018,winter,COMP 1501A,,Introduction to Computer Game Design,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1501A%20-%20Course%20Outline%20%28Winter%202018%29.pdf
+2018,winter,COMP 1601A,,Introduction to Mobile Application Development,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/1601winter2018drupal_outline.html
+2018,winter,COMP 1805B,,Discrete Structures,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/W18-1805.pdf
+2018,winter,COMP 1805C,,Discrete Structures I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP1805C%20-%20Course%20Outline%20%28Winter%202018%29.pdf
+2018,winter,COMP 2401B,,Introduction to Systems Programming,Doron Nussbaum,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_2401B_course_outline_winter_2018.pdf
+2018,winter,COMP 2402B,,Abstract Data Types and Algorithms,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/Comp2402.pdf
+2018,winter,COMP 2404,,Introduction to Software Engineering,Andrew Schoenrock,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_2404_-_course_outline_winter_2018.pdf
+2018,winter,COMP 2406B,,Fundamentals of Web Applications,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2406winter2018drupal_outline.html
+2018,winter,COMP 2501A,,Computer Game Design and Development,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro.pdf
+2018,winter,COMP 2601A,,Mobile Applications,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2601winter2018drupal_outline.html
+2018,winter,COMP 2804B,,Discrete Structures II,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_34.pdf
+2018,winter,COMP 3000,,Operating Systems,Michel Barbeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/CourseOutline3000_2.pdf
+2018,winter,COMP 3002A,,Compiler Construction,Wilf Lalonde,https://service.scs.carleton.ca/sites/default/files/course_outlines/3002.2018.outline.docx
+2018,winter,COMP 3004B,,Object oriented software development,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/3004-w18-outline.pdf
+2018,winter,COMP 3005B,,Database Management Systems,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005_18w_outline.docx
+2018,winter,COMP 3007A,,Programming Paradigms,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/Comp3007.pdf
+2018,winter,COMP 3008A,,Human Computer Interaction,Robert Biddle,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3008-outline-2018w.pdf
+2018,winter,COMP 3400A,,Computational Logic,Leopoldo Bertossi,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllcomplogic18.pdf
+2018,winter,COMP 4102,,Computer Vision,Gerhard Roth,https://service.scs.carleton.ca/sites/default/files/course_outlines/CS4102_Outline_2018_0.pdf
+2018,winter,COMP 4106,,Artificial Intelligence,Dr. John Oommen,https://service.scs.carleton.ca/sites/default/files/course_outlines/4106Outline18.pdf
+2018,winter,COMP 4108,,Computer Systems Security,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/computer_systems_security_winter_2018_course_outline_0.pdf
+2018,winter,COMP 4203,,Wireless Networks and Security,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_35.pdf
+2018,winter,COMP 4501A,,Advanced facilities for real-time games,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP4501_Outline_0.pdf
+2018,winter,COMP 4601A,,Intelligent Web-based Information Systems,Tony White,https://service.scs.carleton.ca/sites/default/files/course_outlines/COMP%204601%20--%20Intelligent%20Web-based%20Information%20Systems.pdf
+2018,winter,COMP 5000X,DATA5000,DATA5000: Introduction to Data Science,Olga Baysal,https://service.scs.carleton.ca/sites/default/files/course_outlines/data5000_outline.pdf
+2018,winter,COMP 5107,,Statistical and Syntactic Pattern Recognition,Dr. John Oommen,https://service.scs.carleton.ca/sites/default/files/course_outlines/5107Outline18_0.pdf
+2018,winter,COMP 5407W,,Authentication and Software Security,P. Van Oorschot,https://service.scs.carleton.ca/sites/default/files/course_outlines/5407jan2018-outline.pdf
+2018,winter,COMP 5900Y,,Geometry processing,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/GeomProcOutline%20Winter%202018.pdf
+2018,summer,COMP 1405,1005,Introduction​ ​to​ ​Computer​ ​Science​ ​I,Andrew Schoenrock,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_1005-1405_course_outline_summer_2018.pdf
+2018,summer,COMP 1406A,1006,Inroduction to Computer Science II,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/s18-outline-update.pdf
+2018,summer,COMP 1805A,,Discrete Structures I,Milica Stojmenović,https://service.scs.carleton.ca/sites/default/files/course_outlines/18comp1805acourse_outline.pdf
+2018,summer,COMP 4900A,,Intensive Game Development Project,Connor Hillen,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp-4900-summer2.pdf
+2018,fall,COMP 1001A,,Introduction to Computational Thinking for Arts and Social Sciences,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1001a-f18-course_outline.pdf
+2018,fall,COMP 1005A,,Introduction to Computer Science I,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1005.pdf
+2018,fall,COMP 1405A,,Introduction to Computer Science I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1405a_-_course_outline_fall_2018.pdf
+2018,fall,COMP 1405B,,Introduction to Computer Science I,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1405b-f18-course_outline.pdf
+2018,fall,COMP 1405C,,Introduction to Computer Science I,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1405.pdf
+2018,fall,COMP 1406A,COMP 1006A,Introduction to Computer Science II,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp10061406a-f18-course_outline.pdf
+2018,fall,COMP 1805A,,Discrete Structures I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1805a_-_course_outline_fall_2018.pdf
+2018,fall,COMP 2401A,,Introduction to Systems Programming,Doron Nussbaum,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_2401a_course_outline_fall_2018.pdf
+2018,fall,COMP 2401B,,Introduction to Systems Programming,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_36.pdf
+2018,fall,COMP 2402A,,Data Structures And Algorithms,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/f182402a.pdf
+2018,fall,COMP 2404A,,Introduction to Software Engineering,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_33.pdf
+2018,fall,COMP 2406A,,Web Applications,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2406fall2018outline.html
+2018,fall,COMP 2801A,,Introduction to Robotics,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2801-courseoutlinef2018.pdf
+2018,fall,COMP 2804A,,Discrete Structures II,Michiel Smid,
+2018,fall,COMP 3000A,,Operating Systems,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/operating_systems_fall_2018_course_outline_0.pdf
+2018,fall,COMP 3004A,,Object-Oriented Software Engineering,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/3004-f18-outlinev2.pdf
+2018,fall,COMP 3005A,,Database Management Systems,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005fall2018outline.html
+2018,fall,COMP 3007A,,Programming Paradigms,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3007a_-_course_outline_fall_2018.pdf
+2018,fall,COMP 3203A,,Computer Networks,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/3203-18-outline.pdf
+2018,fall,COMP 3301A,,Technical Writing,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/3301-intro-2018.pdf
+2018,fall,COMP 3501A,,Foundations of Game Programming and Computer Graphics,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3501_outline_0.pdf
+2018,fall,COMP 3801A,,Algorithms for Modern Data Sets,Anil Maheshwari,
+2018,fall,COMP 3804A,MATH 3804,Design and Analysis of Algorithms,Anil Maheshwari,
+2018,fall,COMP 4001A,,Distributed Computing,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/4001-18-outline.pdf
+2018,fall,COMP 4004A,,Software Quality Assurance,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/4004-_outlinef18.pdf
+2018,fall,COMP 4009A,,Parallel Programming for Clusters and Multi-Core Processors,F. Dehne,https://service.scs.carleton.ca/sites/default/files/course_outlines/4009.pdf
+2018,fall,COMP 4107A,,Neural Networks,Tony White,https://service.scs.carleton.ca/sites/default/files/course_outlines/4107-course-outline.pdf
+2018,fall,COMP 4109A,,Applied Cryptography,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/f18-4109.pdf
+2018,fall,COMP 4111A,COMP 5111,Data MAnagement for Business Intelligence,Leopoldo Bertossi,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllbi18.pdf
+2018,fall,COMP 5102,COMP 4000,Distributed Operating Systems,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/distributed_os_fall_2018_course_outline_0.pdf
+2018,fall,COMP 5110,CSI 5136,Computer Security & Usability,Sonia Chiasson,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5110_fall2018.pdf
+2018,fall,COMP 5206A,,Evolutionary Computation and Artificial Life,Tony White,https://service.scs.carleton.ca/sites/default/files/course_outlines/5206-course-outline.pdf
+2018,fall,COMP 5704A,,Parallel Algorithms and Applications in Data Science,F. Dehne,https://service.scs.carleton.ca/sites/default/files/course_outlines/5704_0.pdf
+2018,fall,COMP 5900H,,Image Processing and Stylization,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/5900-intro-2018.pdf
+2018,fall,COMP 5900I,,Machine Learning,Yuhong Guo,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllabusml_2018.pdf
+2019,winter,COMP 1001B,,Introduction to Computational Thinking for Arts and Social Sciences,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1001b-w19-course_outline.pdf
+2019,winter,COMP 1006B,,Introduction to Computer Science II,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1006b-w19-course_outline.pdf
+2019,winter,COMP 1406,,Introduction to Computer Science II,M. Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/winter-2019-outline_v2.pdf
+2019,winter,COMP 1501A,,Introduction to Computer Game Design,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1501a_-_course_outline_winter_2019.pdf
+2019,winter,COMP 1805B,,Discrete Structures I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1805b_-_course_outline_winter_2019.pdf
+2019,winter,COMP 2401A,,Introduction to Systems Programming,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2401-courseoutline_w2019.pdf
+2019,winter,COMP 2404B,,Introduction to Software Engineering,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_39.pdf
+2019,winter,COMP 2501A,,Computer Game Development,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro-2019.pdf
+2019,winter,COMP 2804B,,Discrete Structures II,Michiel Smid,
+2019,winter,COMP 2804B,,Discrete Structures II,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_47.pdf
+2019,winter,COMP 3000B,,Operating Systems,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/operating_systems_winter_2019_course_outline_0.pdf
+2019,winter,COMP 3002,,Compilers,Wilf Lalonde,https://service.scs.carleton.ca/sites/default/files/course_outlines/3002.2019.outline.docx
+2019,winter,COMP 3004,,Object-Oriented Software Engineering,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_38.pdf
+2019,winter,COMP 3005B,,Database Management Systems,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005_19w_outline.docx
+2019,winter,COMP 3007A,,Programming Paradigms,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3007a_-_course_outline_winter_2019.pdf
+2019,winter,COMP 3008,,Human Computer Interaction,Sana Maqsood,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3008-outline-2019.pdf
+2019,winter,COMP 3803,,Introduction to Theory of Computation,Michiel Smid,
+2019,winter,COMP 3803A,,Introduction to Theory of Computation,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_48.pdf
+2019,winter,COMP 3804A,MATH 3804,Design and Analysis of Algorithms,Alina Shaikhet,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllabus-3804-w19.pdf
+2019,winter,COMP 4102,,Computer Vision,Gerhard Roth,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_2019_0.pdf
+2019,winter,COMP 4106,,Artificial Intelligence,Dr. John Oommen,https://service.scs.carleton.ca/sites/default/files/course_outlines/4106outline19.pdf
+2019,winter,COMP 4108B,,Computer Systems Security,P. Van Oorschot,https://service.scs.carleton.ca/sites/default/files/course_outlines/4108jan2019.html
+2019,winter,COMP 4501A,,Advanced facilities for real-time games,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp4501_outline.pdf
+2019,winter,COMP 4601A,,Intelligent Web-based Information Systems,Tony White,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_4601-overview.pdf
+2019,winter,COMP 5005,,Learning in Random Environments,Dr. John Oommen,https://service.scs.carleton.ca/sites/default/files/course_outlines/5005outline19.pdf
+2019,winter,COMP 5305W,,Advanced Database Systems ,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/5305-19w_outline.docx
+2019,winter,COMP 5407W,,Authentication and Software Security,P. Van Oorschot,https://service.scs.carleton.ca/sites/default/files/course_outlines/5407jan2019.html
+2019,winter,COMP 5900Y,,Geometry processing,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/geomprocoutline_winter_2019.pdf
+2019,summer,COMP 1405A,COMP 1005,Introduction to Computer Science I,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp10051405a-s19-course_outline.pdf
+2019,summer,COMP 1406A,1006,Introduction to Computer Science II,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/s19-outline-v1.pdf
+2019,summer,COMP 1805A,,Discrete Structures I,Milica Stojmenović,https://service.scs.carleton.ca/sites/default/files/course_outlines/19comp1805acourseoutline.pdf
+2019,fall,COMP 1001A,,Introduction to Computational Thinking for Arts and Social Science Students,Riham Mohamed And Sana Maqsood,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1001a-fall2019-course_outline.pdf
+2019,fall,COMP 1005A,,Introduction to Computer Science I,Farah Chanchary,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1005a_-_course_outline_fall_2019.pdf
+2019,fall,COMP 1006A,,Introduction To Computer Science II,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/1006outline.pdf
+2019,fall,COMP 1405A,,Introduction to Computer Science I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1405a_-_course_outline_fall_2019.pdf
+2019,fall,COMP 1405B,,Introduction to Computer Science I,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1405b-f19-course_outline.pdf
+2019,fall,COMP 1405C,,Introduction to Computer Science I,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1405_course_outline.pdf
+2019,fall,COMP 1405D,,Introduction to Computer Science I,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1405_course_outline_0.pdf
+2019,fall,COMP 1406A,,Intro to Computer Science II,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1406a_-_course_outline_fall_2019.pdf
+2019,fall,COMP 1805A,,Discrete Structures I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1805a_-_course_outline_fall_2019.pdf
+2019,fall,COMP 1805B,,Discrete Structures I,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1805b_-_course_outline_fall_2019.pdf
+2019,fall,COMP 2401A,,Introduction to Systems Programming,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2401-courseoutline_f2019.pdf
+2019,fall,COMP 2401B,,Introduction to Systems Programming,Doron Nussbaum,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_2401b_course_outline_fall_2019.pdf
+2019,fall,COMP 2402A,,Abstract Data Types and Algorithms,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2402a_-_course_outline_fall_2019.pdf
+2019,fall,COMP 2402B,,Abstract Data Types and Algorithms,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2402b_-_course_outline_fall_2019.pdf
+2019,fall,COMP 2404B,,Introduction to Software Engineering,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2404outline.pdf
+2019,fall,COMP 2406A,,Fundamentals of Web Applications,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2406a-f19-course_outline.pdf
+2019,fall,COMP 2406B,,Fundamentals of Web Applications,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2406b-f19-course_outline.pdf
+2019,fall,COMP 2804A,,Discrete Structures II,Pat Morin,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2804a-f2019-pat-morin.pdf
+2019,fall,COMP 2804B,,Discrete Structures II,Pat Morin,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2804b-f2019-pat-morin_1.pdf
+2019,fall,COMP 3000A,,Operating Systems,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/operating_systems_fall_2019_course_outline.pdf
+2019,fall,COMP 3004A,,Object-Oriented Software Engineering,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_40.pdf
+2019,fall,COMP 3005A,,Database Management Systems,Ahmed El-Roby,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005_19f_outline_0.docx
+2019,fall,COMP 3005B,,Database Management Systems,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005b_19f_outline.docx
+2019,fall,COMP 3005B,,Database Management Systems,Mengchi LIU,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005b_19f_outline_1.docx
+2019,fall,COMP 3007A,,Programming Paradigms,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3007_course_outline.pdf
+2019,fall,COMP 3203A,,Computer Networks,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/3203-19-outline.pdf
+2019,fall,COMP 3301A,,Technical Writing,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro-2019_0.pdf
+2019,fall,COMP 3501A,,Foundations of Game Programming and Computer Graphics,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3501_fall2019_outline.pdf
+2019,fall,COMP 3804A,Math 3804,Design and Analysis of Algorithms I,JR Sack,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline3804.2019fall_0.pdf
+2019,fall,COMP 4001A,,Distributed Computing,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/4001-19-outline.pdf
+2019,fall,COMP 4003A,, Transaction Processing Systems,Mengchi LIU,https://service.scs.carleton.ca/sites/default/files/course_outlines/4003_19f_outline.docx
+2019,fall,COMP 4004A,,Software Quality Assurance,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/4004-_outlinef19.pdf
+2019,fall,COMP 4009,,Parallel Programming for Clusters and Multi-Core Processors,Frank Dehne,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_4009.docx
+2019,fall,COMP 4108,,Computer Systems Security,A. Abdou,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp4108_outline_fall_2019.pdf
+2019,fall,COMP 4109A,,Applied Cryptography,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/f19-4109.pdf
+2019,fall,COMP 4202A,,Computational Aspects of Geographic Information Systems,JR Sack,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_37.pdf
+2019,fall,COMP 4804,,Design and Analysis of Algorithms II,Prosenjit Bose,https://service.scs.carleton.ca/sites/default/files/course_outlines/f19-4804-bose_0.pdf
+2019,fall,COMP 4804,,Advanced Algorithms,Prosenjit Bose,https://service.scs.carleton.ca/sites/default/files/course_outlines/f19-4804-bose.pdf
+2019,fall,COMP 4900C,,"Advanced Topics in Computer Science:  Quantum Techniques in Computing, Communications and Networking",Michel Barbeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/courseoutline4990_0.pdf
+2019,fall,COMP 5008,,Computational Geometry,Prosenjit Bose,
+2019,fall,COMP 5008,,Computational Geometry,Prosenjit Bose,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_46.pdf
+2019,fall,HCIN 5100F,,Fundamentals of HCI Design and Evaluation,Elizabeth Stobert,https://service.scs.carleton.ca/sites/default/files/course_outlines/hcin5100-outline-2019.pdf
+2019,fall,COMP 5102F,COMP 4000,Distributed Operating Systems,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/distributed_os_fall_2019_course_outline.pdf
+2019,fall,COMP 5104A,,Object-Oriented Software Development,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/5104-outlinef19.pdf
+2019,fall,COMP 5110,CSI 5136,Computer Security & Usability,Sonia Chiasson,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5110_fall_2019_outline.pdf
+2019,fall,COMP 5114,,Quantum Communications and Networking,Michel Barbeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/courseoutline5114.pdf
+2019,fall,COMP 5115F,,Geometry processing,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/geomproc_fall2019_outline.pdf
+2019,fall,COMP 5117,,Mining Software Repositories,Olga Baysal,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5117_outline.pdf
+2019,fall,COMP 5117,,Mining Software Repositories,Olga Baysal,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5117_outline_0.pdf
+2019,fall,HCIN 5200A,,Software and User Interface Development,Robert Biddle,https://service.scs.carleton.ca/sites/default/files/course_outlines/hcin5200-outline2019.pdf
+2019,fall,COMP 5204A,,Computational Aspects of Geographic Information Systems,JR Sack,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_41.pdf
+2019,fall,COMP 5206A,,Evolutionary Computing and Artificial Life,Tony White,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_5206.pdf
+2019,fall,HCIN 5404,IDES 5102,HCIN 5404,Chantal Trudel,https://service.scs.carleton.ca/sites/default/files/course_outlines/ides_5102_hcin_5404_course_outline_fall_2019.pdf
+2019,fall,HCIN 5405,,METHODOLOGIES FOR DISCRETE EVENT MODELLING AND SIMULATION ,Gabriel A. Wainer,https://service.scs.carleton.ca/sites/default/files/course_outlines/5104outline.pdf
+2019,fall,COMP 5704,,Parallel Algorithms and Applications in Data Science,Frank Dehne,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_5704.docx
+2019,fall,COMP 5900H,CSI 5138IHO,Selected Topics in Computer Science: Internet of Things (IoT) Security,P. C. Van Oorschot,https://service.scs.carleton.ca/sites/default/files/course_outlines/5900h-outline_0.pdf
+2019,fall,COMP 5900X,CSI 5139,Advanced Machine Learning,Majid Komeili,https://service.scs.carleton.ca/sites/default/files/course_outlines/outlines_comp5900f19.pdf
+2019,fall,COMP 5900Y,,Image Processing and Stylization,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro-2019_1.pdf
+2020,winter,COMP 1001B,,Introduction to Computational Thinking for Arts and Social Sciences,Riham Mohamed,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1001b-winter2020-course_outline.pdf
+2020,winter,COMP 1005B,,Introduction to Computer Science I,Farah Chanchary,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1005a_-_course_outline_winter_2020.pdf
+2020,winter,COMP 1006B,,Intro to Computer Science II,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/1006winter2020outline.pdf
+2020,winter,COMP 1405B,,Introduction to Computer Science I,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/w2020outline1405.pdf
+2020,winter,COMP 1406A,,Introduction to Computer Science II,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1406a-w20-course_outline.pdf
+2020,winter,COMP 1406B,,Introduction to Computer Science II,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1406b-w20-course_outline.pdf
+2020,winter,COMP 1406C,,Introduction to Computer Science II,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1406c-w20-course_outline.pdf
+2020,winter,COMP 1501A,,Introduction to Computer Game Design,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1501a_-_course_outline_winter_2020.pdf
+2020,winter,COMP 1601A,,Introduction to Mobile Application Development,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/1601winter2020outline.pdf
+2020,winter,COMP 1805A,,Discrete Structures I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1805a_-_course_outline_winter_2020.pdf
+2020,winter,COMP 1805B,,Discrete Structures I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1805b_-_course_outline_winter_2020.pdf
+2020,winter,COMP 1805C,,Discrete Structures I,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1805c_-_course_outline_winter_2020.pdf
+2020,winter,COMP 2401B,,Introduction to Systems Programming,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2401-courseoutline_w2020.pdf
+2020,winter,COMP 2402A,,Abstract Data Types and Algorithms,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2402a_-_course_outline_winter_2020.pdf
+2020,winter,COMP 2402B,,Abstract Data Types and Algorithms,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2402b_-_course_outline_winter_2020.pdf
+2020,winter,COMP 2404,,Introduction to Software Engineering,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_43.pdf
+2020,winter,COMP 2406A,,Fundamentals of Web Applications,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2406a-w20-course_outline.pdf
+2020,winter,COMP 2501A,,Computer Game Design and Development,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro-2020.pdf
+2020,winter,COMP 2601A,,Mobile Applications II,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2601winter2020outline_0.pdf
+2020,winter,COMP 2601A,,Mobile Applications,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2601winter2020outline.pdf
+2020,winter,COMP 2804B,,Discrete Structures II,Pat Morin,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2804b-f2019-pat-morin_0.pdf
+2020,winter,COMP 3000B,,Operating Systems,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp300b-outline-final.pdf
+2020,winter,COMP 3004A,,Object-Oriented Software Engineering,Vojislav Roadonjic,https://service.scs.carleton.ca/sites/default/files/course_outlines/voja3004-w20-outlinev1.pdf
+2020,winter,COMP 3004B,,Object-Oriented Software Engineering,Olga Baysal,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3004_outline_1.pdf
+2020,winter,COMP 3004B,,Object-Oriented Software Engineering,Olga Baysal,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3004_outline.pdf
+2020,winter,COMP 3004B,,Object-Oriented Software Engineering,Olga Baysal,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3004_outline_0.pdf
+2020,winter,COMP 3005B,,Database Management Systems,Ahmed El-Roby,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005_20w_outline.docx
+2020,winter,COMP 3007,,Programming Paradigms,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/w2020outline3007_0.pdf
+2020,winter,COMP 3008A,,Human Computer Interaction,Sana Maqsood,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3008-outline-2020_0.pdf
+2020,winter,COMP 3803A,,Introduction to Theory of Computing,Luís Fernando Schultz Xavier Da Silveira,https://service.scs.carleton.ca/sites/default/files/course_outlines/course-outline_2.pdf
+2020,winter,COMP 3804A,,Design and Analysis of Algorithms,Saeed Mehrabi,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3804aoutline.pdf
+2020,winter,COMP 3804B,Math 3804,Design and Analysis of Algorithms I ,Dr. J.-R. Sack,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_45.pdf
+2020,winter,COMP 4102,,Computer Vision,Rosa Azami,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllabus.pdf
+2020,winter,COMP 4106,,Artificial Intelligence,Dr. John Oommen,https://service.scs.carleton.ca/sites/default/files/course_outlines/4106outline20.pdf
+2020,winter,COMP 4107A,,Neural Networks,Tony White,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_4107_-_neural_networks.pdf
+2020,winter,COMP 4108B,,Computer Systems Security,AbdelRahman Abdou,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp4108.pdf
+2020,winter,COMP 4203,,Wireless Networks and Security,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_42.pdf
+2020,winter,COMP 4206A,,Evolving Information Networks,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/4206-5310-20-outline_copy.pdf
+2020,winter,COMP 4501A,,Advanced facilities for real-time games,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp4501_winter2020_outline.pdf
+2020,winter,COMP 4601A,,Intelligent Web-based Information Systems,Tony White,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_4601_-_intelligent_web-based_information_systems.pdf
+2020,winter,COMP 4900B,,Introduction Machine Learning,Majid Komeili,https://service.scs.carleton.ca/sites/default/files/course_outlines/outlines_comp4900w20.pdf
+2020,winter,COMP 4900C,,Drone System Software,Ahmad Traboulsi,https://service.scs.carleton.ca/sites/default/files/course_outlines/courseoutline4900c.docx
+2020,winter,DATA 5000,,Introduction to Data Science,Olga Baysal,https://service.scs.carleton.ca/sites/default/files/course_outlines/data5000_outline_1.pdf
+2020,winter,DATA 5000W,,DATA5000: Introduction to Data Science,Olga Baysal,https://service.scs.carleton.ca/sites/default/files/course_outlines/data5000_outline_0.pdf
+2020,winter,COMP 5107,,Statistical and Syntactic Pattern Recognition,Dr. John Oommen,https://service.scs.carleton.ca/sites/default/files/course_outlines/5107outline20.pdf
+2020,winter,COMP 5118,,Trends in Big Data Management,Ahmed El-Roby,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5118_20w_outline.pdf
+2020,winter,COMP 5210W,,"Human-Computer Interaction Models, Theories, and Frameworks",Elizabeth Stobert,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5210-outline-2020.pdf
+2020,winter,HCIN 5300,ITEC 5204,Emerging Interaction Techniques,Audrey Girouard,https://service.scs.carleton.ca/sites/default/files/course_outlines/hcin_5300_itec_5204_-_course_outline_-_2020.pdf
+2020,winter,COMP 5305W,,Advanced Database Systems,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/5305-20w_outline_0.pdf
+2020,winter,COMP 5310,,Evolving Information Networks,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/53104206-20-outline.pdf
+2020,winter,HCIN 5400,CGSC 5101,CGSC 5101 – HCIN 5400,Chunyun Ma,https://service.scs.carleton.ca/sites/default/files/course_outlines/5101-5400_syllabus_2020w_v0.2.pdf
+2020,winter,COMP 5900,CSI 5140 IT0,Operating Systems Security,David Barrera,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_44.pdf
+2020,winter,COMP 5900,CSI 5139 IZ0,Selected Topics in Computer Science - Surgical Data Science,Matthew Holden,https://service.scs.carleton.ca/sites/default/files/course_outlines/sds-courseoutline.pdf
+2020,winter,COMP 5900V,,Internet Measurements and Security,A. Abdou,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5900.pdf
+2020,winter,COMP 5900X,CSI 5140 IX0,Selected Topics in Computer Science: Trusted Computing and Emerging Attacks,Lianying Zhao,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_comp5900x-winter2020.pdf
+2020,summer,COMP 1405A,1005A,Introduction to Computer Science I,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/course_outline_-_summer_2020_-_comp1005_1405.pdf
+2020,summer,COMP 1406A,COMP 1006A/1406A,Introduction to Computer Science II,Farah Chanchary,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp10061406a_-_course_outline_summer_2020.pdf
+2020,summer,COMP 1805A,,Discrete Structures I,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1805a_-_course_outline_summer_2020.pdf
+2020,summer,COMP 4900,,Intensive Game Development Project,Connor Hillen,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_4900_summer_2020_outline.pdf
+2020,fall,COMP 1001A,,Introduction to Computational Thinking for Arts and Social Science Students,DARRYL HILL,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1001a_-_course_outline_fall_2020.pdf
+2020,fall,COMP 1005A,,Introduction to Computer Science I,Nasser Mustafa,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1005_outline.pdf
+2020,fall,COMP 1006A,,Introduction to Computer Science II,DARRYL HILL,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1006a_-_course_outline_fall_2020_0.pdf
+2020,fall,COMP 1405A,,Introduction to Computer Science I,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/course_outline_-_fall_2020_-_comp1405.pdf
+2020,fall,COMP 1405B,,Introduction to Computer Science - I,Farah Chanchary,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1405b_-_course_outline_fall_2020.pdf
+2020,fall,COMP 1405C,,Introduction to Computer Science I,Connor Hillen,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_1405c_course_outline_f2020_0.pdf
+2020,fall,COMP 1405D,,Introduction to Computer Science I,Connor Hillen,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_1405d_course_outline_f2020_0.pdf
+2020,fall,COMP 1405Z,COMP 1406,Introduction to Computer Science I/II,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1405z-comp1406z-f20-course_outline.pdf
+2020,fall,COMP 1406A,,Introduction to Computer Science II,DARRYL HILL,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1406a_-_course_outline_fall_2020_0.pdf
+2020,fall,COMP 1805A,,Discrete Structures I,Alina Shaikhet,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1805a_-_course_outline_fall_2020.pdf
+2020,fall,COMP 1805B,,Discrete Structures I,Alina Shaikhet,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1805b_-_course_outline_fall_2020.pdf
+2020,fall,COMP 2401A,,Introduction to Systems Programming,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2401-courseoutline_f2020.pdf
+2020,fall,COMP 2401B,,Introduction to Systems Programming,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_52.pdf
+2020,fall,COMP 2402A,,Abstract Data Types/Algorithms,Alexa Sharp,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_2402a_syllabus.pdf
+2020,fall,COMP 2402B,,Abstract Data Types/Algorithms,Pat Morin,https://service.scs.carleton.ca/sites/default/files/course_outlines/index-2402.html
+2020,fall,COMP 2404B,,Introduction to Software Engineering,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_49.pdf
+2020,fall,COMP 2406A,,Fundamentals of Web Applications,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2406a-f20-course_outline.pdf
+2020,fall,COMP 2406B,,Fundamentals of Web Applications,Alina Shaikhet,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2406b-f20-course_outline.pdf
+2020,fall,COMP 2804A,,Discrete Structures II,Pat Morin,https://service.scs.carleton.ca/sites/default/files/course_outlines/index_0.html
+2020,fall,COMP 2804B,,Discrete Structures II,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_50.pdf
+2020,fall,COMP 3000A,,Operating Systems,Lianying Zhao,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_comp3000_fall_2020_0.pdf
+2020,fall,COMP 3004A,,Object-Oriented Software Engineering,Olga Baysal,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3004_outline_3.pdf
+2020,fall,COMP 3004A,,Object-Oriented Software Engineering,Olga Baysal,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3004_outline_2.pdf
+2020,fall,COMP 3005A,,Database Management Systems,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005a_20f_outline_0.pdf
+2020,fall,COMP 3005B,,Database Management Systems,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005b_20f_outline.pdf
+2020,fall,COMP 3007A,,Programming Paradigms,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/course_outline_comp3007_f2020.pdf
+2020,fall,COMP 3008,,Human-Computer Interaction,Sonia Chiasson And Robert Biddle,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3008_sept2020_syllabus_0.pdf
+2020,fall,COMP 3203A,,PRINCIPLES OF COMPUTER NETWORKS,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/3203-20-outline.pdf
+2020,fall,COMP 3301A,,Technical Writing for Computer Science,Elizabeth Stobert,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3301-outline-2020_0.pdf
+2020,fall,COMP 3501A,,Foundations of Game Programming and Computer Graphics,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro-2020_1.pdf
+2020,fall,COMP 3801,,Algorithms for Modern Data Sets,Anil Maheshwari,https://service.scs.carleton.ca/sites/default/files/course_outlines/3801.html
+2020,fall,COMP 3804A,MATH 3804,Design and Analysis of Algorithms,Prosenjit Bose,https://service.scs.carleton.ca/sites/default/files/course_outlines/f20-3804-bose.pdf
+2020,fall,COMP 4000,,Distributed Operating Systems,David Barrera,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_51.pdf
+2020,fall,COMP 4001A,,DISTRIBUTED COMPUTING,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/4001-20-outline.pdf
+2020,fall,COMP 4004,,Software Quality Engineering,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outlinef20.pdf
+2020,fall,COMP 4108A,,Computer Systems Security,P. C. Van Oorschot,https://service.scs.carleton.ca/sites/default/files/course_outlines/4108sep2020.pdf
+2020,fall,COMP 4109A,,Applied Cryptography,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/f20-4109-updated.pdf
+2020,fall,COMP 4202A,,Computational Aspects of Geographic  Information Systems,Dr. J.-R. Sack,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_4202_1.pdf
+2020,fall,COMP 4804A,,Advanced Algorithms,Prosenjit Bose,https://service.scs.carleton.ca/sites/default/files/course_outlines/f20-4804-bose.pdf
+2020,fall,COMP 4900A,,Introduction Machine Learning,Majid Komeili,https://service.scs.carleton.ca/sites/default/files/course_outlines/outlines_comp4900af20.pdf
+2020,fall,COMP 4900C,,"Computing, Society and Ethics",Alan Tsang,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_4900c_course_outline_1.pdf
+2020,fall,HCIN 5100,,Fundamentals of HCI Design and Evaluation,Elizabeth Stobert,https://service.scs.carleton.ca/sites/default/files/course_outlines/hcin5100-outline-2020.pdf
+2020,fall,COMP 5104,HCIN 5406,Object-Oriented Software Development,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outlinef20_0.pdf
+2020,fall,COMP 5110,CSI 5136,Computer Security & Usability,Sonia Chiasson,https://service.scs.carleton.ca/sites/default/files/course_outlines/f2020_comp5110_syllabus.pdf
+2020,fall,COMP 5112,,Algorithms for Data Science,Anil Maheshwari,https://service.scs.carleton.ca/sites/default/files/course_outlines/5112.html
+2020,fall,COMP 5117,,Mining Software Repositories,Olga Baysal,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5117_outline_1.pdf
+2020,fall,COMP 5118,,Trends in Big Data Management,Ahmed El-Roby,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5118_20f_outline.pdf
+2020,fall,HCIN 5200A,,Software and User Interface Development,Robert Biddle,https://service.scs.carleton.ca/sites/default/files/course_outlines/hcin5200-outline2020.pdf
+2020,fall,COMP 5204A,,Computational Aspects of Geographic  Information Systems,Dr. J.-R. Sack,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_5204_0.pdf
+2020,fall,HCIN 5404F,,Design Research Methods,Chantal Trudel,https://service.scs.carleton.ca/sites/default/files/course_outlines/ides_5102_hcin_5404_design_research_methods_f20_-_chantal_trudel.pdf
+2020,fall,HCIN 5405F,SYSC5104A, METHODOLOGIES FOR DISCRETE EVENT MODELLING AND SIMULATION,Gabriel Wainer,https://service.scs.carleton.ca/sites/default/files/course_outlines/hcin5405f-sysc5104a_outline_f2020.pdf
+2020,fall,COMP 5704,,Parallel Algorithms and Applications in Data Science,Frank Dehne,https://service.scs.carleton.ca/sites/default/files/course_outlines/5704_1.pdf
+2020,fall,COMP 5900F,,Selected Topics in Computer Science - Surgical Data Science,Matthew Holden,https://service.scs.carleton.ca/sites/default/files/course_outlines/sds-courseoutline_0.pdf
+2020,fall,COMP 5900H,,Selected Topics in Computer Science: Internet of Things (IoT) Security,P. C. Van Oorschot,https://service.scs.carleton.ca/sites/default/files/course_outlines/5900hsept2020.pdf
+2020,fall,COMP 5900I,,Selected Topics in Computer Science: Adaptive Security,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/adapsec2020-outline.pdf
+2020,fall,COMP 5900X,,Internet Measurements and Security,AbdelRahman Abdou,https://service.scs.carleton.ca/sites/default/files/course_outlines/5900x_outline.pdf
+2021,winter,COMP 1001B,,Introduction to Computational Thinking for Arts and Social Science Students,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1001b_-_course_outline_winter_2021.pdf
+2021,winter,COMP 1005B,,Introduction to Computer Science I,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/winter_2021_-_comp1005.pdf
+2021,winter,COMP 1405B,,Introduction to Computer Science I,Michael Genkin,https://service.scs.carleton.ca/sites/default/files/course_outlines/1405b-course-outline-mgenkin-winter-2021.pdf
+2021,winter,COMP 1406A,COMP 1406C,Introduction to Computer Science II,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/winter_2021_-_comp1406.pdf
+2021,winter,COMP 1406B,COMP 1006B,Introduction to Computer Science II,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/course_outline.pdf
+2021,winter,COMP 1501A,,Intro to Computer Game Design,Connor Hillen,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_1501_course_outline_w2021_tentative_.pdf
+2021,winter,COMP 1601A,,Introduction to Mobile Application Development,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1601a-2021w-outline_0.pdf
+2021,winter,COMP 1805A,,Discrete Structures I,Alina Shaikhet,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1805a-w-2021-outline.pdf
+2021,winter,COMP 1805B,,Discrete Structures I,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1805b-w-2021-outline.pdf
+2021,winter,COMP 1805C,,Discrete Structures I,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1805c-w-2021-outline.pdf
+2021,winter,COMP 2401B,,Introduction to Systems Programming,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2401-courseoutline_w2021.pdf
+2021,winter,COMP 2402,,Abstract Data Types and Algorithms,Alexa Sharp,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_2402_winter_2021_syllabus.pdf
+2021,winter,COMP 2404A,COMP 2404C,Introduction to Software Engineering,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_56.pdf
+2021,winter,COMP 2404B,,Introduction to Software Engineering,Nasser Mustafa,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2404_outline_0.pdf
+2021,winter,COMP 2406A,,Fundamentals of Web Applications,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/course_outline_0.pdf
+2021,winter,COMP 2501,Comp 2501,Computer Game Design and Development,Wilf Lalonde,https://service.scs.carleton.ca/sites/default/files/course_outlines/2501.2021.description.pdf
+2021,winter,COMP 2601A,,Mobile Applications,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2601winter2021course_outline_0.pdf
+2021,winter,COMP 2804A,,Discrete Structure II,Dr. J.-R. Sack,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline2804_0.pdf
+2021,winter,COMP 2804B,,Discrete Structures II,Matthew Holden,https://service.scs.carleton.ca/sites/default/files/course_outlines/ds-courseoutline.pdf
+2021,winter,COMP 3000B,,Operating Systems,Lianying Zhao,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_comp3000-w21_0.pdf
+2021,winter,COMP 3002,,Compiler Construction,Wilf Lalonde,https://service.scs.carleton.ca/sites/default/files/course_outlines/3002.2022.description.pdf
+2021,winter,COMP 3002A,,Compilers,Wilf Lalonde,https://service.scs.carleton.ca/sites/default/files/course_outlines/3002.2021.description.docx
+2021,winter,COMP 3002A,,Compiler Construction,Wilf Lalonde,https://service.scs.carleton.ca/sites/default/files/course_outlines/3002.2021.description.pdf
+2021,winter,COMP 3004A,,Object-Oriented Software Engineering,Vojislav D Radonjic,https://service.scs.carleton.ca/sites/default/files/course_outlines/3004w21outline-voja.pdf
+2021,winter,COMP 3004B,,Object-Oriented Software Engineering,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/3004outlinewinter2121.pdf
+2021,winter,COMP 3005B,,Database Management Systems,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005winter2021course_outline_0.pdf
+2021,winter,COMP 3007,,Programming Paradigms,Andrew Runka,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3007_course_outline_0.pdf
+2021,winter,COMP 3008A,,Human Computer Interaction,Robert Biddle And Sonia Chiasson,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3008-outline-2021w.pdf
+2021,winter,COMP 3009A,,Computer Graphics,Rosa Azami,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllabus_comp3009_updated.pdf
+2021,winter,COMP 3203A,,Principles of Computer Networks,AbdelRahman Abdou,https://service.scs.carleton.ca/sites/default/files/course_outlines/3203_winter_2021.pdf
+2021,winter,COMP 3803A,,Introduction to Theory of Computation,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_53.pdf
+2021,winter,COMP 3804A,MATH 3804,Design and Analysis of Algorithms I,Alina Shaikhet,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllabus-3804-w-2021.pdf
+2021,winter,COMP 3804B,MATH 3804,Design and Analysis of Algorithms I,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_54.pdf
+2021,winter,COMP 4009A,,Parallel Programming for Clusters and Multi-Core Processors,Frank Dehne,https://service.scs.carleton.ca/sites/default/files/course_outlines/4009_course_outline.pdf
+2021,winter,COMP 4102A,,Computer Vision ,Rosa Azami,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllabus_comp4102_updated.pdf
+2021,winter,COMP 4106B,,Artificial Intelligence,Matthew Holden,https://service.scs.carleton.ca/sites/default/files/course_outlines/ai-courseoutline.pdf
+2021,winter,COMP 4107,,Neural Networks,Alan Tsang,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_4107_course_outline.pdf
+2021,winter,COMP 4108B,,Computer Systems Security,AbdelRahman Abdou,https://service.scs.carleton.ca/sites/default/files/course_outlines/4108_winter_2021.pdf
+2021,winter,COMP 4109,,Applied Cryptography,David Barrera,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_58.pdf
+2021,winter,COMP 4203,,Wireless Networks and Security,Ahmad Traboulsi,https://service.scs.carleton.ca/sites/default/files/course_outlines/courseoutline4203_0.pdf
+2021,winter,COMP 4206A,,Evolving Information Networks,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/4206-5310-21-outline_1.pdf
+2021,winter,COMP 4501A,,Advanced Facilities for Real-Time Games,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp4501a-2021w-outline_0.pdf
+2021,winter,COMP 4601A,,Intelligent Web-based Information Systems,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp4601a-w21-course_outline.pdf
+2021,winter,DATA 5000,,Introduction to Data Science,"Komeili, Genkin, Velazquez",https://service.scs.carleton.ca/sites/default/files/course_outlines/outlines_data5000aw21.pdf
+2021,winter,COMP 5005,,Learning Systems for Random Environments,Dr. John Oommen,https://service.scs.carleton.ca/sites/default/files/course_outlines/5005outline21.pdf
+2021,winter,COMP 5210A,,"HCI Models, Theories, and Frameworks",Elizabeth Stobert,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5210-outline-2021.pdf
+2021,winter,HCIN 5300,ITEC 5204,Emerging Interaction Techniques,Audrey Girouard,https://service.scs.carleton.ca/sites/default/files/course_outlines/hcin_5300_itec_5204_-_course_outline_-_2021.pdf
+2021,winter,COMP 5305W,,Advanced Database Systems,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/5305-21w_outline.pdf
+2021,winter,COMP 5310A,,Evolving Information Networks,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/4206-5310-21-outline_0.pdf
+2021,winter,HCIN 5400,CGSC 5101,Experimental Methods and Statistics,Chunyun Ma,https://service.scs.carleton.ca/sites/default/files/course_outlines/5101-5400_syllabus_2021w_v0.2.pdf
+2021,winter,HCIN 5501W,ITEC 5208,Virtual & Augmented Reality Technology,Robert Teather,https://service.scs.carleton.ca/sites/default/files/course_outlines/itec_5208.pdf
+2021,winter,COMP 5900S,SYSC5804/ ITEC5910,5G Networks,Jun Huang,https://service.scs.carleton.ca/sites/default/files/course_outlines/graduatecourseoutline5gv5.pdf
+2021,winter,COMP 5900T,,Operating Systems Security,David Barrera,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_57.pdf
+2021,winter,COMP 5900V,,Advanced Machine Learning,Majid Komeili,https://service.scs.carleton.ca/sites/default/files/course_outlines/outlines_comp5900v-w21.pdf
+2021,winter,COMP 5900X,,Trusted Computing and Emerging Attacks,Lianying Zhao,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_comp5900x-w21_0.pdf
+2021,winter,COMP 5900Z,COMP 4900A,Multiagent Systems,Alan Tsang,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_5900_course_outline_0.pdf
+2021,summer,COMP 1405,1005,Introduction to Computer Science I,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/s21_-_comp1405_1005_0.pdf
+2021,summer,COMP 1406A,1006,Intro to Computer Science II,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/1406_1006_outline.pdf
+2021,summer,COMP 1805,MATH 1805,Discrete Structures I,Alexa Sharp,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllabus_-_comp_1805_-_discrete_structures_0.pdf
+2021,summer,COMP 2401A,,Introduction to Systems Programming,Dr. Michael Genkin,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2401a-course-outline-mgenkin.pdf
+2021,summer,COMP 4900A,,Intensive Game Development Project,Connor Hillen,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_4900_summer_2021_outline2.pdf
+2021,fall,COMP 1001,,Introduction to Computational Thinking for Arts and Social Sciences,Sana Maqsood,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1001-course-outline.pdf
+2021,fall,COMP 1005A,COMP 1005 A/B,Introduction to Computer Science I,Farah Chanchary,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1005ab_-_course_outline_fall_2021.pdf
+2021,fall,COMP 1006A,,Introduction to Computer Science II,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/fall_2021_-_comp10061.pdf
+2021,fall,COMP 1008A,,Math for Game Programming,Wilf Lalonde,https://service.scs.carleton.ca/sites/default/files/course_outlines/1008.2021.description.docx
+2021,fall,COMP 1405A,COMP 1405B COMP 1405C,Introduction to Computer Science I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/course_outline_for_comp1405abc.pdf
+2021,fall,COMP 1405Z,COMP 1406Z,Introduction to Computer Science I/II,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1405z-comp1406z-f21-course_outline.pdf
+2021,fall,COMP 1406A,,Introduction to Computer Science II,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/fall_2021_-_comp14061.pdf
+2021,fall,COMP 1805A,,Discrete Structures I,Alexa Sharp,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllabus_-_comp_1805_-_discrete_structures_-_google_docs.pdf
+2021,fall,COMP 1805B,,Discrete Structures I,Alexa Sharp,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllabus_-_comp_1805_-_discrete_structures_-_google_docs_0.pdf
+2021,fall,COMP 2401A,,Introduction to System Programming,Doron Nussbaum,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_2401_course_outline_fall_2021_0.pdf
+2021,fall,COMP 2401B,COMP 2401C,Introduction to Systems Programming,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_59.pdf
+2021,fall,COMP 2401D,,Introduction to Systems Programming,Sana Maqsood,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2401-course-outline.pdf
+2021,fall,COMP 2402A,COMP 2402B,Abstract Data Types and Algorithms,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2402-f21-course_outline.pdf
+2021,fall,COMP 2404B,,Introduction to Software Engineering,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2404b_-_course_outline_f21.pdf
+2021,fall,COMP 2406A,COMP 2406B,Fundamentals of Web Applications,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2406-f21-course_outline.pdf
+2021,fall,COMP 2601A,,Mobile Applications,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2601course_outline_fall2021.pdf
+2021,fall,COMP 2801A,,Introduction to Robotics,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2801-courseoutline_f2021.pdf
+2021,fall,COMP 2804A,,Discrete Structures II,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2804a_-_course_outline_f21.pdf
+2021,fall,COMP 2804B,,Discrete Structures II,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2804b_-_course_outline_f21.pdf
+2021,fall,COMP 3000A,,Operating Systems,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/operating_systems_fall_2021_course_outline_-_soma-notes.pdf
+2021,fall,COMP 3004A,,Object-Oriented Software Engineering,Vojislav Radonjic,https://service.scs.carleton.ca/sites/default/files/course_outlines/3004a-f21_outline.pdf
+2021,fall,COMP 3005A,,Database Management Systems,Ahmed El-Roby,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3005_21f_outline_0.pdf
+2021,fall,COMP 3007A,,Programming Paradigms,Douglas Howe,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline.html
+2021,fall,COMP 3008,,Human Computer Interaction,Sana Maqsood,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3008-course-outline.pdf
+2021,fall,COMP 3106A,,Introduction to Artificial Intelligence,Matthew Holden,https://service.scs.carleton.ca/sites/default/files/course_outlines/ai_courseoutline_fall2021_0.pdf
+2021,fall,COMP 3109A,,Applied Cryptography and Authentication,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/f21-3109_0.pdf
+2021,fall,COMP 3203A,,Principles of Computer Networks,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/3203-21-outline.pdf
+2021,fall,COMP 3301A,,Image Processing and Stylization,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro-2021_0.pdf
+2021,fall,COMP 3501A,,3501,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro-2021.pdf
+2021,fall,COMP 3801,,Algorithms for Modern Data Sets,Anil Maheshwari,
+2021,fall,COMP 3803,,Introduction to Theory of Computation,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_55.pdf
+2021,fall,COMP 3804A,MATH 3804,Design and Analysis of Algorithms,Anil Maheshwari,
+2021,fall,COMP 3804B,Math 3804,Design and Analysis of Algorithms I,Dr. J.-R. Sack,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline3804_0.pdf
+2021,fall,COMP 4000A,COMP 5102,Distributed Operating Systems,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/distributed_os_fall_2021_course_outline_-_soma-notes.pdf
+2021,fall,COMP 4001A,,Distributed Computing,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/4001-21-outline.pdf
+2021,fall,COMP 4004,,Software Quality Assurance,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/4004_5104_-_outlinef21.pdf
+2021,fall,COMP 4105,,Machine Learning,Majid Komeili,https://service.scs.carleton.ca/sites/default/files/course_outlines/outlines_comp4105-f21.pdf
+2021,fall,COMP 4108A,31268,Computer Systems Security,AbdelRahman Abdou,https://service.scs.carleton.ca/sites/default/files/course_outlines/4108a_f2021.pdf
+2021,fall,COMP 4109A,3109,Applied Cryptography and Authentication,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/f21-3109.pdf
+2021,fall,COMP 4202A,,Computational Aspects of Geographic Information Systems,Dr. J.-R. Sack,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_4202.pdf
+2021,fall,COMP 4601A,,Intelligent Web-based Information Systems,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp4601a-f21-course_outline.pdf
+2021,fall,COMP 4804A,MATH 4804,Design and Analysis of Algorithms II,Prosenjit Bose,https://service.scs.carleton.ca/sites/default/files/course_outlines/f21-4804-bose.pdf
+2021,fall,COMP 4900C,,"Computing, Society and Ethics",Alan Tsang,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_4900_course_outline_0.pdf
+2021,fall,HCIN 5100,,Fundamentals of HCI Design and Evaluation,Sonia Chiasson,https://service.scs.carleton.ca/sites/default/files/course_outlines/hcin5100_syllabus.pdf
+2021,fall,COMP 5104,,OO Software Development,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/4004_5104_-_outlinef21_0.pdf
+2021,fall,COMP 5115F,,Geometry processing,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/geomproc_fall2021_outline.pdf
+2021,fall,COMP 5116F,,Machine Learning,Yuhong Guo,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5116_2021_outline_0.pdf
+2021,fall,HCIN 5200A,,Software and User Interface Development,Robert Biddle,https://service.scs.carleton.ca/sites/default/files/course_outlines/hcin5200-outline2021.pdf
+2021,fall,COMP 5206F,,Evolutionary Computing and Artificial Life,Mikhail Genkin,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5206f-course-outline-mgenkin.pdf
+2021,fall,HCIN 5400A,CGSC 5101,Experimental Methods and Statistics,Kasia Muldner,https://service.scs.carleton.ca/sites/default/files/course_outlines/5101-5400_syllabus.pdf
+2021,fall,COMP 5400A,5408,Advanced Data Structures,Pat Morin,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5408.pdf
+2021,fall,HCIN 5404,5102,Design Research Methods,Juan Jimenez Garcia,https://service.scs.carleton.ca/sites/default/files/course_outlines/ides_5102f_design_research_methods_f21_-_juan_jimenez_0.pdf
+2021,fall,COMP 5704A,,Parallel Algorithms and Applications in Data Science,Frank Dehne,https://service.scs.carleton.ca/sites/default/files/course_outlines/course_outline_2.pdf
+2021,fall,COMP 5900E,31289,Internet Measurements and Security,AbdelRahman Abdou,https://service.scs.carleton.ca/sites/default/files/course_outlines/5900e_f2021.pdf
+2021,fall,COMP 5900F,,Advanced Machine Learning,Majid Komeili,https://service.scs.carleton.ca/sites/default/files/course_outlines/outlines_comp5900f-f21.pdf
+2021,fall,COMP 5900G,COMP 4900B,Multiagent Systems,Alan Tsang,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_5900_course_outline_1.pdf
+2021,fall,COMP 5900H,,Trusted Computing and Emerging Attacks,Lianying Zhao,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_comp5900h-f21_0.pdf
+2022,winter,COMP 1001B,,Introduction to Computational Thinking,Leila Chinaei,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1001b-course-outline-winter2022.pdf
+2022,winter,COMP 1006B,,Introduction to Computer Science II,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/winter_2022_-_comp1006.pdf
+2022,winter,COMP 1405A,COMP 1005,Introduction to Computer Science I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_1405_w22_-_course_outline_0.pdf
+2022,winter,COMP 1405B,1005,Introduction to Computer Science I,Farah Chanchary,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1005-1405b_-_course_outline_winter_2022.pdf
+2022,winter,COMP 1406A,,Introduction to Computer Science II,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1406-w22-course_outline.pdf
+2022,winter,COMP 1406B,,Introduction to Computer Science II,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1406-w22-course_outline_0.pdf
+2022,winter,COMP 1406C,,Introduction to Computer Science II,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/winter_2022_-_comp1406.pdf
+2022,winter,COMP 1406D,,Introduction to Computer Science II,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1406-w22-course_outline_1.pdf
+2022,winter,COMP 1501A,,Intro to Computer Game Design,Connor Hillen,https://service.scs.carleton.ca/sites/default/files/course_outlines/tentative_comp_1501_course_outline_w2022_rev1.pdf
+2022,winter,COMP 1601A,,Introduction to Mobile Application Development,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/mobile_application_development_winter_2022_course_outline_-_soma-notes.pdf
+2022,winter,COMP 1805A,COMP 1805B COMP 1805C,Discrete Structures I,Alina Shaikhet,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1805a-w-2022-outline.pdf
+2022,winter,COMP 2401B,,Introduction to Systems Programming,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2401-courseoutline_w2022.pdf
+2022,winter,COMP 2402A,,Abstract Data Types and Algorithms,Alexa Sharp,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllabus_-_comp_2402_-_winter_2022_-_abstract_data_types_and_algorithms.pdf
+2022,winter,COMP 2402B,,Abstract Data Types and Algorithms,Alexa Sharp,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllabus_-_comp_2402_-_winter_2022_-_abstract_data_types_and_algorithms_0.pdf
+2022,winter,COMP 2404A,,Introduction to Software Engineering,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2404a_-_course_outline_winter_2021.pdf
+2022,winter,COMP 2404B,,Introduction to Software Engineering,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2404b_-_course_outline_f21_0.pdf
+2022,winter,COMP 2404C,,Introduction to Software Engineering,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2404c_-_course_outline_winter_2021.pdf
+2022,winter,COMP 2406,Sections A and B,Fundamentals of Web Applications,Sana Maqsood,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2406-course-outline.pdf
+2022,winter,COMP 2501A,,Computer Game Design and Development,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2501_winter2022_outline.pdf
+2022,winter,COMP 2804,,Discrete Structures II,Pat Morin,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2804_discrete_structures_ii_fall_2020.pdf
+2022,winter,COMP 3000A,COMP 3000B,Operating Systems,Lianying Zhao,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_comp3000-w22_0.pdf
+2022,winter,COMP 3002,,Compiler Construction,Wilf Lalonde,https://service.scs.carleton.ca/sites/default/files/course_outlines/3002.2022.description_0.pdf
+2022,winter,COMP 3004A,,Object-Oriented Software Engineering,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/3004outlinewinter2122.pdf
+2022,winter,COMP 3004B,,Object-Oriented Software Engineering,Vojislav D Radonjic,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3004b-w22-outline.pdf
+2022,winter,COMP 3005A,,Database Management Systems,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005winter2022course_outline.pdf
+2022,winter,COMP 3005B,,Database Management Systems,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005winter2022course_outline_0.pdf
+2022,winter,COMP 3007A,,Programming Paradigms,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_3007_w22_-_course_outline.pdf
+2022,winter,COMP 3007B,,Programming Paradigms,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_3007_w22_-_course_outline_0.pdf
+2022,winter,COMP 3008,,Human-Computer Interaction,Sana Maqsood,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3008-course-outline_1.pdf
+2022,winter,COMP 3106A,,Introduction to Artificial Intelligence,Yuhong Guo,https://service.scs.carleton.ca/sites/default/files/course_outlines/ai-courseoutline-2022w_0.pdf
+2022,winter,COMP 3109A,,Applied Cryptography and Authentication,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/w22-3109.pdf
+2022,winter,COMP 3203A,11136,Principles of Computer Networks,AbdelRahman Abdou,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3203_winter_2022_outline_0.pdf
+2022,winter,COMP 3203A,11136,Principles of Computer Networks,AbdelRahman Abdou,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3203_winter_2022_outline_1.pdf
+2022,winter,COMP 3203A,,Principles of Computer Networks,AbdelRahman Abdou,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3203_winter_2022_outline.pdf
+2022,winter,COMP 3804,MATH 3804,Design and Analysis of Algorithms I ,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_60.pdf
+2022,winter,COMP 4102A,,Computer Vision,Michael Genkin,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp4102a-course-outline-mgenkin.pdf
+2022,winter,COMP 4107B,,Neural Networks,Rosa Azami,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_4107_outline.pdf
+2022,winter,COMP 4108,,Computer Systems Security,David Barrera,https://service.scs.carleton.ca/sites/default/files/course_outlines/4108.pdf
+2022,winter,COMP 4203,,Wireless Networks & Security,Ahmad Traboulsi,https://service.scs.carleton.ca/sites/default/files/course_outlines/courseoutline4203.docx
+2022,winter,COMP 4501,,Advanced facilities for real-time games,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp4501_winter2022_outline.pdf
+2022,winter,COMP 4900B,COMP5900,Texture and Pattern Synthesis,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro-2023.pdf
+2022,winter,COMP 4900B,,Real-time Operating Systems,Ahmad Traboulsi,https://service.scs.carleton.ca/sites/default/files/course_outlines/courseoutline4900b.docx
+2022,winter,DATA 5000V,,DATA 5000: Introduction to Data Science,Olga Baysal,https://service.scs.carleton.ca/sites/default/files/course_outlines/data5000-w22_outline_0.pdf
+2022,winter,COMP 5107,,Statistical and Syntactic Pattern Recognition,Dr. John Oommen,https://service.scs.carleton.ca/sites/default/files/course_outlines/5107outline22.pdf
+2022,winter,COMP 5112,,Algorithms for Data Science,Anil Maheshwari,
+2022,winter,COMP 5118,,Trends in Big Data Management,Ahmed El-Roby,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5118_22w_outline.pdf
+2022,winter,COMP 5119,,Internet of Things Security,David Barrera,https://service.scs.carleton.ca/sites/default/files/course_outlines/5119.pdf
+2022,winter,COMP 5204W,,Computational Aspects of GIS,Dr. J.-R. Sack,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_5204short_0.pdf
+2022,winter,HCIN 5300,ITEC 5204,Emerging Interaction Techniques,Audrey Girouard,https://service.scs.carleton.ca/sites/default/files/course_outlines/hcin_5300_itec_5204_-_course_outline_-_2022.pdf
+2022,winter,COMP 5305W,,Advanced Database Systems,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/5305-22w_outline.pdf
+2022,winter,COMP 5407,,Authentication and Software Security,Paul Van Oorschot,https://service.scs.carleton.ca/sites/default/files/course_outlines/5407jan2022-1jan2022.pdf
+2022,winter,HCIN 5501,ITEC 5208,Virtual and Augmented Reality Technology,Robert J. Teather,https://service.scs.carleton.ca/sites/default/files/course_outlines/itec_5208_0.pdf
+2022,winter,COMP 5900,SYSC5804/ ITEC5910,5G Networks,Jun (Steed) Huang,https://service.scs.carleton.ca/sites/default/files/course_outlines/graduatecourseoutline5gv8.pdf
+2022,winter,COMP 5900,,Autonomous Vehicles,Doron Nussbaum,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_5900_course_outline_winter_2022.pdf
+2022,winter,COMP 5900H,COMP 4602,Social Networking,Alan Tsang,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_4602_course_outline.pdf
+2022,winter,COMP 5900I,,Image Processing and Stylization,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro-2022_0.pdf
+2022,winter,COMP 5900K,,Selected Topics in CS -Software Ecosystems,Rabe Abdalkareem,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5900k_course_outline.pdf
+2022,summer,COMP 1006,COMP 1406,Introduction to Computer Science II,Ahmad Traboulsi,https://service.scs.carleton.ca/sites/default/files/course_outlines/courseoutlinecomp1006comp1406.pdf
+2022,summer,COMP 1405A,1005,Introduction to Computer Science I,Farah Chanchary,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1005-1405a_-_course_outline_summer_2022_0.pdf
+2022,summer,COMP 1805A,,Discrete Structures I,Alexa Sharp,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllabus_-_comp_1805_-_discrete_structures.pdf
+2022,summer,COMP 2401A,,Introduction to Systems Programming,Dr. Mikhail Genkin,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2401a-course-outline-mgenkin_0.pdf
+2022,summer,COMP 4900,,Intensive Game Development Project,Connor Hillen,https://service.scs.carleton.ca/sites/default/files/course_outlines/preliminary_comp_4900_summer_2022_outline.pdf
+2022,summer,COMP 5900A,,Selected Topics in Computer Science - Surgical Data Science,Matthew Holden,https://service.scs.carleton.ca/sites/default/files/course_outlines/sds_courseoutline_summer2022.pdf
+2022,fall,COMP 1001A,,Introduction to Computational Thinking,Leila Chinaei,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1001-course-outline-fall2022.pdf
+2022,fall,COMP 1005A,,Introduction to Computer Science I,Farah Chanchary,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1005a_-_course_outline_fall_2022_tentative_2_0.pdf
+2022,fall,COMP 1005B,,Introduction to Computer Science I,Connor Hillen,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_1005_b_preliminary_course_outline-1.pdf
+2022,fall,COMP 1006A,,Introduction to Computer Science II,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/f22-1006a_0.pdf
+2022,fall,COMP 1008A,,Math for Game Programming,Wilf Lalonde,https://service.scs.carleton.ca/sites/default/files/course_outlines/1008.2022.description_0.docx
+2022,fall,"COMP 1405A,B,C",,Introduction to Computer Science I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_1405_f22_-_course_outline_0.pdf
+2022,fall,COMP 1405D,,Intro to Computer Science,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllabus_1405_fall_2022_1.pdf
+2022,fall,COMP 1405Z,COMP 1406Z,Introduction to Computer Science I/II,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/course_outline_1405z_and_1406z_0.pdf
+2022,fall,COMP 1406A,,Introduction to Computer Science II,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/f22-1406a_0.pdf
+2022,fall,"COMP 1805A,B,C",,Discrete Structures I,Alexa Sharp,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllabus_-_comp_1805_-_discrete_structures_-_fall_2022.pdf
+2022,fall,COMP 2401A,,Introduction to Systems Programming,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_63.pdf
+2022,fall,COMP 2401B,,Introduction to Systems Programming,Connor Hillen,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_2401_b_d_preliminary_course_outline-1.pdf
+2022,fall,COMP 2401C,,Introduction to Systems Programming,Doron Nussbaum,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_2401_course_outline_fall_2022.pdf
+2022,fall,COMP 2401D,,Introduction to Systems Programming,Connor Hillen,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_2401_b_d_preliminary_course_outline-1_0.pdf
+2022,fall,COMP 2402A,COMP 2402B,Abstract Data Types and Algorithms,Alina Shaikhet,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2402-f22-course_outline_0.pdf
+2022,fall,COMP 2404A,,Introduction to Software Engineering,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/f22-2404a-outline_0.pdf
+2022,fall,COMP 2404B,,Introduction to Software Engineering,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/f22-2404b-outline_0.pdf
+2022,fall,COMP 2406A,,Web Applications,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2406fall2022outline.pdf
+2022,fall,COMP 2406B,,Fundamentals of Web Applications,Alina Shaikhet,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2406-f22-course_outline_0.pdf
+2022,fall,COMP 2801A,,Introduction to Robotics,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2801_-_course_outline_f2022.pdf
+2022,fall,COMP 2804A,,Discrete Structures II,Prosenjit Bose,https://service.scs.carleton.ca/sites/default/files/course_outlines/f22-2804bose-outline.pdf
+2022,fall,COMP 2804B,,Discrete Structures II,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/f22-2804b-outline.pdf
+2022,fall,COMP 3000A,,Operating Systems,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/operating_systems_fall_2022_course_outline_-_soma-notes.pdf
+2022,fall,COMP 3004A,,Object-Oriented Software Engineering,Vojislav D Radonjic,https://service.scs.carleton.ca/sites/default/files/course_outlines/3004a-f22outline.pdf
+2022,fall,"COMP 3005A,B",,Database Management Systems,Ahmed El-Roby And Abdelghny Orogat,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3005_22f_outline.pdf
+2022,fall,COMP 3007A,,Programming Paradigms,Howe,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_62.pdf
+2022,fall,COMP 3008A,,Human-Computer Interaction,Nadine Moacdieh,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_3008_-_course_outline_-_fall_2022.pdf
+2022,fall,COMP 3105,,Introduction to Machine Learning,Junfeng Wen,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3105_f22_outline_0.pdf
+2022,fall,COMP 3106A,,Introduction to Artificial Intelligence,Matthew Holden,https://service.scs.carleton.ca/sites/default/files/course_outlines/ai_courseoutline_fall2022.pdf
+2022,fall,COMP 3109,,Applied Cryptography,David Barrera,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_64.pdf
+2022,fall,COMP 3203A,,Principles of Computer Networks,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/3203-22-outline.pdf
+2022,fall,COMP 3501A,,Foundations of Game Programming and Computer Graphics,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllabus_3501_fall_2022.pdf
+2022,fall,COMP 3801A,,Algorithms for Modern Data Sets,Anil Maheshwari,
+2022,fall,COMP 3803,,Introduction to Theory of Computation,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_61.pdf
+2022,fall,COMP 3804A,MATH 3804,Design and Analysis of Algorithms,Anil Maheshwari,
+2022,fall,COMP 3804B,Math 3804,Design and Analysis of Algorithms I ,J.-R. Sack,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline3804.pdf
+2022,fall,COMP 4001A,,Distributed Computing,Evangelos Kranakis,https://service.scs.carleton.ca/sites/default/files/course_outlines/4001-22-outline_0.pdf
+2022,fall,COMP 4004A,,Software Quality Assurance,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/4004_outline_fall22.pdf
+2022,fall,COMP 4108A,,Computer Systems Security,AbdelRahman Abdou,https://service.scs.carleton.ca/sites/default/files/course_outlines/fall_2022-comp4108.pdf
+2022,fall,COMP 4202,,Computational Aspects of Geographic   Information Systems  ,J.-R. Sack,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline4202.pdf
+2022,fall,COMP 4601A,,Intelligent Web-based Information Systems,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp4601a-f22-course_outline_0.pdf
+2022,fall,"COMP 4701A,B",,"Computing, Society, and Ethics",Alan Tsang,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_4701_course_outline_1.pdf
+2022,fall,COMP 4804,,Advanced Algorithms,Prosenjit Bose,https://service.scs.carleton.ca/sites/default/files/course_outlines/f22-4804-bose.pdf
+2022,fall,COMP 4900A,,Real-Time Operating Systems,Ahmad Traboulsi,https://service.scs.carleton.ca/sites/default/files/course_outlines/courseoutline4900a.pdf
+2022,fall,COMP 4900B,COMP 5900G,Multiagent Systems,Alan Tsang,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_5900_course_outline_2.pdf
+2022,fall,COMP 4900C,,"Quantum Techniques in Computing, Communications and Networking ",Michel Barbeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/courseoutline4900.pdf
+2022,fall,DATA 5000Y,,Introduction to Data Science,Mikhail Genkin,https://service.scs.carleton.ca/sites/default/files/course_outlines/data5000y-course-outline-mikhailgenkin.pdf
+2022,fall,HCIN 5100F,,Fundamentals of HCI Design and Evaluation,Elizabeth Stobert,https://service.scs.carleton.ca/sites/default/files/course_outlines/hcin5100-outline-2022.pdf
+2022,fall,COMP 5104F,,Object-Oriented Software Development,Jean-Pierre Corriveau,https://service.scs.carleton.ca/sites/default/files/course_outlines/5104_outline_fall22.pdf
+2022,fall,COMP 5114F,,Quantum Communications and Networking ,Michel Barbeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/courseoutline5114_0.pdf
+2022,fall,COMP 5115F,,Geometry processing,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/geomproc_fall2022_outline.pdf
+2022,fall,COMP 5116F,,Machine Learning,Yuhong Guo,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5116_2022_outline_0.pdf
+2022,fall,COMP 5117F,,Mining Software Repositories,Olga Baysal,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5117_f22-course_outline_0.pdf
+2022,fall,HCIN 5200A,,Software and User Interface Development,Robert Biddle,https://service.scs.carleton.ca/sites/default/files/course_outlines/hcin5200-outline2022.pdf
+2022,fall,COMP 5305F,,Advanced Database Systems,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/5305-22f_outline_0.pdf
+2022,fall,COMP 5704F,,Parallel Algorithms and Applications in Data Science,Frank Dehne,https://service.scs.carleton.ca/sites/default/files/course_outlines/5704_course_outline_0.pdf
+2022,fall,COMP 5900E,,Internet Measurements and Security,AbdelRahman Abdou,https://service.scs.carleton.ca/sites/default/files/course_outlines/a._abdou-comp5900-outline.pdf
+2022,fall,COMP 5900F,,Advanced Machine Learning,Majid Komeili,https://service.scs.carleton.ca/sites/default/files/course_outlines/outlines_comp5900f-f22.pdf
+2022,fall,COMP 5900G,COMP4900B,Multiagent Systems,Alan Tsang,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_5900_course_outline_2_0.pdf
+2022,fall,COMP 5900H,,Trusted Computing and Emerging Attacks,Lianying Zhao,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_comp5900h-f22-aug30.pdf
+2023,winter,COMP 1001B,,Introduction to Computational Thinking,Leila Chinaei,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1001-course-outline-winter2023.pdf
+2023,winter,COMP 1006B,,Introduction to Computer Science II,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/w23-1006b.pdf
+2023,winter,COMP 1405A,COMP 1005 A,Introduction to Computer Science I,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_1405_a_w23_-_course_outline.pdf
+2023,winter,COMP 1405B,COMP 1005B,Introduction to Computer Science I,Connor Hillen,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_1405_1005_b_course_outline-1.pdf
+2023,winter,COMP 1406A,,Introduction to Computer Science II,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/w23-1406a.pdf
+2023,winter,COMP 1406B,,Introduction to Computer Science II,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1406bcd-w23-course_outline.pdf
+2023,winter,COMP 1406C,,Introduction to Computer Science II,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1406bcd-w23-course_outline_0.pdf
+2023,winter,COMP 1406D,,Introduction to Computer Science II,Dave McKenney,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1406bcd-w23-course_outline_1.pdf
+2023,winter,COMP 1406E,,Introduction to Computer Science II,Farah Chanchary,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1406e_-_course_outline_winter_2023_tentative_0.pdf
+2023,winter,COMP 1501A,,Introduction to Computer Game Design,Connor Hillen,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_1501_a_course_outline.pdf
+2023,winter,"COMP 1805A,B,C",,Discrete Structures I,Alina Shaikhet,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp1805-w23-courseoutline_0.pdf
+2023,winter,COMP 2109,,Introduction to Security and Privacy,Paul Van Oorschot,https://service.scs.carleton.ca/sites/default/files/course_outlines/2109jan2023-forupload.pdf
+2023,winter,COMP 2401A,,Introduction to Systems Programming,Connor Hillen,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_2401_a_course_outline_0.pdf
+2023,winter,COMP 2401B,,Introduction to System Programming,Mark Lanthier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2401-courseoutline-w2023.pdf
+2023,winter,"COMP 2402A,B",,Abstract Data Types and Algorithms,Alexa Sharp,https://service.scs.carleton.ca/sites/default/files/course_outlines/syllabus_-_comp_2402_winter_2023_-_abstract_data_types_and_algorithms_0.pdf
+2023,winter,COMP 2404A,,Introduction to Software Engineering,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/w23-2404a-outline_0.pdf
+2023,winter,COMP 2404B,COMP 2404C,Introduction to Software Engineering,Christine Laurendeau,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_67.pdf
+2023,winter,COMP 2406A,,Web Applications,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2406w23_course_outline.pdf
+2023,winter,COMP 2406B,,Web Applications,Louis Nel,https://service.scs.carleton.ca/sites/default/files/course_outlines/2406w23_course_outline_0.pdf
+2023,winter,COMP 2501A,,Computer Game Design and Development,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2501_winter2023_outline_0.pdf
+2023,winter,COMP 2601A,,Mobile Applications,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp2601-2023w-outline_0.pdf
+2023,winter,COMP 2804A,,Discrete Structures II,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/w23-2804a-outline.pdf
+2023,winter,COMP 2804B,,Discrete Structures II,Darryl Hill,https://service.scs.carleton.ca/sites/default/files/course_outlines/w23-2804b-outline.pdf
+2023,winter,COMP 3000A,COMP 3000B,Operating Systems,Lianying Zhao,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_comp3000-w23-dec25.pdf
+2023,winter,COMP 3002A,,Compiler Construction,Wilf Lalonde,https://service.scs.carleton.ca/sites/default/files/course_outlines/3002.2023.description.pdf
+2023,winter,"COMP 3004A,B",,Object-Oriented Software Engineering,Vojislav Radonjic,https://service.scs.carleton.ca/sites/default/files/course_outlines/3004ab-w23outline.pdf
+2023,winter,COMP 3005A,,Database Management Systems,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005a_23w.pdf
+2023,winter,COMP 3005B,,Database Management Systems,Mengchi Liu,https://service.scs.carleton.ca/sites/default/files/course_outlines/3005b_23w.pdf
+2023,winter,"COMP 3007A,B",,Programming Paradigms,Robert Collier,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_3007_w23_-_course_outline_0.pdf
+2023,winter,COMP 3008A,,Human-Computer Interaction,Elizabeth Stobert,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp3008-outline-2023.pdf
+2023,winter,COMP 3009,,Computer Graphics,Doron Nussbaum,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_3009_outline_winter_2023_v1.pdf
+2023,winter,COMP 3109A,,Applied Cryptography and Authentication,Jason Hinek,https://service.scs.carleton.ca/sites/default/files/course_outlines/w23-3109.pdf
+2023,winter,COMP 3203A,11256,Principles of Computer Networks,AbdelRahman Abdou,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_70.pdf
+2023,winter,"COMP 3804A,B",MATH 3804,Design and Analysis of Algorithms I,Michiel Smid,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_69.pdf
+2023,winter,COMP 4000A,COMP 5102,Distributed Operating Systems,Anil Somayaji,https://service.scs.carleton.ca/sites/default/files/course_outlines/distos-2023w-outline_0.pdf
+2023,winter,COMP 4102A,,Computer Vision,Mikhail Genkin,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp4102a-course-outline-mgenkin_0.pdf
+2023,winter,COMP 4107B,,Neural Networks,Matthew Holden,https://service.scs.carleton.ca/sites/default/files/course_outlines/nn_courseoutline_winter2023.pdf
+2023,winter,COMP 4108A,,Computer Systems Security,David Barrera,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_65.pdf
+2023,winter,COMP 4202A,,Computational Aspects of GIS,Dr. J.-R Sack,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline4202.2022_0.pdf
+2023,winter,COMP 4203A,,COMP4203,Ahmad Traboulsi,https://service.scs.carleton.ca/sites/default/files/course_outlines/courseoutline4203-w2023.pdf
+2023,winter,COMP 4203A,,Wireless Networks and Security,Ahmad Traboulsi,https://service.scs.carleton.ca/sites/default/files/course_outlines/courseoutline4203-w23.pdf
+2023,winter,COMP 4501A,,Advanced Facilities for Real-Time Games,Oliver Van Kaick,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp4501_winter2023_outline_0.pdf
+2023,winter,COMP 4900B,COMP5900,Texture and Pattern Synthesis,David Mould,https://service.scs.carleton.ca/sites/default/files/course_outlines/intro-2023_0.pdf
+2023,winter,COMP 4900C,COMP 5900J,Introduction to Reinforcement Learning,Junfeng Wen,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_4900c_w23_outline_v0.pdf
+2023,winter,DATA 5000W,,DATA5000: Introduction to Data Science,Olga Baysal,https://service.scs.carleton.ca/sites/default/files/course_outlines/data5000_outline-w23_updated.pdf
+2023,winter,COMP 5005,COMP 4900A,Learning Systems for Random Environments,Dr. John Oommen,https://service.scs.carleton.ca/sites/default/files/course_outlines/5005outline23_0.pdf
+2023,winter,COMP 5112A,,Algorithms for Data Science,Anil Maheshwari,
+2023,winter,COMP 5118,,Trends in Big Data Management,Ahmed El-Roby,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5118_23w_outline.pdf
+2023,winter,COMP 5119,,Internet of Things Security,David Barrera,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline_68.pdf
+2023,winter,COMP 5204A,,Computational Aspects of GIS,Dr. J.-R. Sack,https://service.scs.carleton.ca/sites/default/files/course_outlines/outline5204.pdf
+2023,winter,COMP 5900,SYSC5804/ ITEC5910/ ELG6184(OU),5G Networks,Jun Steed Huang,https://service.scs.carleton.ca/sites/default/files/course_outlines/graduatecourseoutline5gv9.pdf
+2023,winter,COMP 5900F,,Selected Topics in Computer Science - Surgical Data Science,Matthew Holden,https://service.scs.carleton.ca/sites/default/files/course_outlines/sds_courseoutline_winter2023.pdf
+2023,winter,COMP 5900H,,Eye Tracking in Human-Computer Interaction,Nadine Moacdieh,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp_5900_-_course_outline_-_winter_2023.pdf
+2023,winter,COMP 5900K,,"Data Science, Ethics & Society",Tracey Lauriault,https://service.scs.carleton.ca/sites/default/files/course_outlines/comp5900k-lauriaulttp_selectedtopicsincomputerscience_winter2023.pdf
